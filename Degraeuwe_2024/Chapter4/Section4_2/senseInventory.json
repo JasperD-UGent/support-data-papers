@@ -1,0 +1,5996 @@
+{
+  "absorci\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "atracci\u00f3n sobre un l\u00edquido o un gas",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "extractor",
+              "est\u00e1",
+              "estropeado",
+              "y",
+              "la",
+              "absorci\u00f3n",
+              "de",
+              "humos",
+              "es",
+              "escasa",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "incorporaci\u00f3n de una entidad en otra",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Esta",
+              "empresa",
+              "desea",
+              "la",
+              "absorci\u00f3n",
+              "de",
+              "varias",
+              "empresas",
+              "de",
+              "menor",
+              "importancia",
+              "del",
+              "sector",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.7642
+  },
+  "adquisici\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "obtenci\u00f3n o compra",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Este",
+              "mueble",
+              "es",
+              "de",
+              "adquisici\u00f3n",
+              "reciente",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Este",
+              "coche",
+              "es",
+              "la",
+              "mejor",
+              "adquisici\u00f3n",
+              "que",
+              "he",
+              "hecho",
+              "en",
+              "mi",
+              "vida",
+              "."
+            ],
+            "idx_ambig_item": 5,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Las",
+              "mismas",
+              "fuentes",
+              "mantienen",
+              "que",
+              "las",
+              "negociaciones",
+              "en",
+              "solitario",
+              "para",
+              "la",
+              "adquisici\u00f3n",
+              "de",
+              "la",
+              "filial",
+              "del",
+              "gigante",
+              "alem\u00e1n",
+              "est\u00e1n",
+              "a",
+              "punto",
+              "de",
+              "iniciarse",
+              "."
+            ],
+            "idx_ambig_item": 11,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "persona cuyos servicios se consideran valiosos",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "nuevo",
+              "abogado",
+              "es",
+              "una",
+              "adquisici\u00f3n",
+              "y",
+              "ya",
+              "ha",
+              "ganado",
+              "varios",
+              "juicios",
+              "para",
+              "la",
+              "empresa",
+              "."
+            ],
+            "idx_ambig_item": 5,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.3112
+  },
+  "alianza|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "uni\u00f3n de personas o colectividades",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Estas",
+              "reuniones",
+              "han",
+              "logrado",
+              "crear",
+              "una",
+              "alianza",
+              "entre",
+              "nuestros",
+              "dos",
+              "pa\u00edses",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Los",
+              "partidos",
+              "en",
+              "la",
+              "oposici\u00f3n",
+              "formaron",
+              "alianza",
+              "para",
+              "las",
+              "elecciones",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "anillo de boda",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "adrenalina",
+              "se",
+              "hab\u00eda",
+              "condensado",
+              "y",
+              "la",
+              "valent\u00eda",
+              "se",
+              "le",
+              "escapaba",
+              "entre",
+              "los",
+              "dedos",
+              ",",
+              "al",
+              "mismo",
+              "tiempo",
+              "que",
+              "segu\u00eda",
+              "haciendo",
+              "girar",
+              "la",
+              "alianza",
+              "."
+            ],
+            "idx_ambig_item": 23,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.0
+  },
+  "alza|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "elevaci\u00f3n, aumento",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Solo",
+              "se",
+              "producir\u00e1",
+              "un",
+              "alza",
+              "en",
+              "la",
+              "econom\u00eda",
+              "si",
+              "crece",
+              "la",
+              "confianza",
+              "entre",
+              "los",
+              "inversores",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Puede",
+              "que",
+              "fuera",
+              "alrededor",
+              "de",
+              "los",
+              "a\u00f1os",
+              "setenta",
+              ",",
+              "cuando",
+              "el",
+              "t\u00e9rmino",
+              "iba",
+              "acompa\u00f1ado",
+              "de",
+              "petr\u00f3leo",
+              "y",
+              "seguido",
+              "de",
+              "una",
+              "nueva",
+              "penuria",
+              "y",
+              "un",
+              "alza",
+              "del",
+              "coste",
+              "de",
+              "la",
+              "vida",
+              "."
+            ],
+            "idx_ambig_item": 24,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "pieza de suela en un calzado",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Algunos",
+              "m\u00e9dicos",
+              "consultados",
+              "se",
+              "mostraban",
+              "partidarios",
+              "del",
+              "uso",
+              "de",
+              "alzas",
+              "y",
+              "plantillas",
+              "."
+            ],
+            "idx_ambig_item": 9,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.0
+  },
+  "amortizaci\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "pago de una deuda",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "En",
+              "el",
+              "supuesto",
+              "de",
+              "que",
+              "se",
+              "consolide",
+              "la",
+              "mejor\u00eda",
+              "econ\u00f3mica",
+              ",",
+              "la",
+              "fuerte",
+              "reducci\u00f3n",
+              "del",
+              "apalancamiento",
+              "operativo",
+              ",",
+              "y",
+              "el",
+              "esfuerzo",
+              "en",
+              "amortizaciones",
+              "y",
+              "ajustes",
+              "de",
+              "activos",
+              ",",
+              "deber\u00edan",
+              "traducirse",
+              "en",
+              "un",
+              "r\u00e1pido",
+              "crecimiento",
+              "de",
+              "los",
+              "resultados",
+              "."
+            ],
+            "idx_ambig_item": 22,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "recuperaci\u00f3n de fondos invertidos",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Si",
+              "sois",
+              "ocho",
+              "de",
+              "familia",
+              ",",
+              "est\u00e1",
+              "asegurada",
+              "la",
+              "r\u00e1pida",
+              "amortizaci\u00f3n",
+              "de",
+              "lo",
+              "que",
+              "ha",
+              "costado",
+              "la",
+              "lavadora",
+              "."
+            ],
+            "idx_ambig_item": 10,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.9911
+  },
+  "ampliaci\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "aumento de tama\u00f1o o duraci\u00f3n",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "En",
+              "una",
+              "de",
+              "ellas",
+              "se",
+              "decidi\u00f3",
+              "la",
+              "ampliaci\u00f3n",
+              "del",
+              "grupo",
+              "y",
+              "fui",
+              "llamado",
+              "."
+            ],
+            "idx_ambig_item": 7,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "cosa ampliada (p.ej. una foto)",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Si",
+              "compras",
+              "esta",
+              "marca",
+              "de",
+              "carrete",
+              ",",
+              "al",
+              "revelarlo",
+              "te",
+              "regalan",
+              "una",
+              "ampliaci\u00f3n",
+              "de",
+              "la",
+              "foto",
+              "que",
+              "t\u00fa",
+              "elijas",
+              "."
+            ],
+            "idx_ambig_item": 12,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.9183
+  },
+  "apalancamiento|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "movimiento por medio de una palanca",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Ten\u00eda",
+              "signos",
+              "de",
+              "torturas",
+              "y",
+              "de",
+              "que",
+              "lo",
+              "hab\u00edan",
+              "matado",
+              "con",
+              "el",
+              "m\u00e9todo",
+              "de",
+              "apalancamiento",
+              ",",
+              "que",
+              "consiste",
+              "en",
+              "atravesarle",
+              "una",
+              "estaca",
+              "a",
+              "lo",
+              "largo",
+              "del",
+              "torso",
+              "."
+            ],
+            "idx_ambig_item": 14,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "elevaci\u00f3n del grado de endeudamiento",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "sociedad",
+              "mantiene",
+              "intacta",
+              "su",
+              "capacidad",
+              "de",
+              "apalancamiento",
+              "y",
+              "carece",
+              "de",
+              "financiaci\u00f3n",
+              "ajena",
+              "."
+            ],
+            "idx_ambig_item": 7,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5033
+  },
+  "apuesta|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "acuerdo entre dos o m\u00e1s personas seg\u00fan el que el ganador recibir\u00e1 el premio fijado de antemano",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Hicieron",
+              "una",
+              "apuesta",
+              "a",
+              "ver",
+              "qui\u00e9n",
+              "corr\u00eda",
+              "m\u00e1s",
+              "r\u00e1pido",
+              "."
+            ],
+            "idx_ambig_item": 2,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "T\u00fa",
+              "eres",
+              "testigo",
+              "de",
+              "que",
+              "la",
+              "apuesta",
+              "en",
+              "la",
+              "carrera",
+              "es",
+              "una",
+              "cena",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "dinero o confianza que se deposita en algo que implica cierto riesgo",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Los",
+              "billetes",
+              "cambiaron",
+              "de",
+              "manos",
+              ",",
+              "las",
+              "apuestas",
+              "se",
+              "pagaron",
+              ",",
+              "algunas",
+              "caras",
+              "conocidas",
+              "se",
+              "marcharon",
+              "y",
+              "otras",
+              "similares",
+              "llegaron",
+              "."
+            ],
+            "idx_ambig_item": 7,
+            "source": "SCAP"
+          },
+          {
+            "l_toks": [
+              "La",
+              "apuesta",
+              "por",
+              "la",
+              "innovaci\u00f3n",
+              "de",
+              "esta",
+              "empresa",
+              "ha",
+              "sido",
+              "muy",
+              "alabada",
+              "en",
+              "c\u00edrculos",
+              "especializados",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.7632
+  },
+  "arbitraje|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "funci\u00f3n de un \u00e1rbitro en una competici\u00f3n deportiva",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Me",
+              "dedico",
+              "al",
+              "arbitraje",
+              "desde",
+              "hace",
+              "muchos",
+              "a\u00f1os",
+              "."
+            ],
+            "idx_ambig_item": 3,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "intervenci\u00f3n de una persona o entidad en la resoluci\u00f3n de un conflicto",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "arbitraje",
+              "de",
+              "la",
+              "diplomacia",
+              "vaticana",
+              "solucion\u00f3",
+              "el",
+              "conflicto",
+              "fronterizo",
+              "entre",
+              "Chile",
+              "y",
+              "Argentina",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5033
+  },
+  "balance|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "revisi\u00f3n del estado de las cuentas (especialmente de una empresa)",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "A",
+              "final",
+              "de",
+              "mes",
+              "hacemos",
+              "balance",
+              "para",
+              "controlar",
+              "las",
+              "ganancias",
+              "."
+            ],
+            "idx_ambig_item": 5,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "La",
+              "pol\u00edtica",
+              "de",
+              "dividendos",
+              "que",
+              "llevamos",
+              "a",
+              "cabo",
+              "es",
+              "una",
+              "de",
+              "nuestras",
+              "insignias",
+              "y",
+              "podemos",
+              "seguir",
+              "as\u00ed",
+              ",",
+              "porque",
+              "tenemos",
+              "liquidez",
+              "y",
+              "un",
+              "balance",
+              "financiero",
+              "sin",
+              "deuda",
+              "."
+            ],
+            "idx_ambig_item": 23,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "valoraci\u00f3n, resumen o resultado de una situaci\u00f3n",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Hizo",
+              "balance",
+              "de",
+              "su",
+              "vida",
+              "y",
+              "se",
+              "sinti\u00f3",
+              "satisfecho",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.8867
+  },
+  "bono|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "vale para canjear",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Me",
+              "dieron",
+              "un",
+              "bono",
+              "para",
+              "las",
+              "comidas",
+              "de",
+              "toda",
+              "la",
+              "semana",
+              "."
+            ],
+            "idx_ambig_item": 3,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Cuando",
+              "fui",
+              "a",
+              "la",
+              "tienda",
+              "a",
+              "cambiar",
+              "la",
+              "camisa",
+              "me",
+              "dieron",
+              "un",
+              "bono",
+              "por",
+              "su",
+              "valor",
+              "."
+            ],
+            "idx_ambig_item": 12,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "t\u00edtulo de inter\u00e9s fijo",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "Estado",
+              "lanzar\u00e1",
+              "una",
+              "emisi\u00f3n",
+              "de",
+              "bonos",
+              "a",
+              "tres",
+              "a\u00f1os",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.4248
+  },
+  "capitalizaci\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "utilizaci\u00f3n de una situaci\u00f3n en beneficio propio",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Los",
+              "sindicatos",
+              "buscaban",
+              "la",
+              "capitalizaci\u00f3n",
+              "de",
+              "la",
+              "huelga",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "inyecci\u00f3n de recursos en una empresa o conversi\u00f3n de sus reservas en capital",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "capitalizaci\u00f3n",
+              "de",
+              "la",
+              "compa\u00f1\u00eda",
+              "se",
+              "realiz\u00f3",
+              "a",
+              "trav\u00e9s",
+              "de",
+              "su",
+              "salida",
+              "a",
+              "Bolsa",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.7642
+  },
+  "captaci\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "percepci\u00f3n por medio de los sentidos o de la inteligencia",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Con",
+              "su",
+              "inteligencia",
+              ",",
+              "la",
+              "captaci\u00f3n",
+              "de",
+              "estas",
+              "ideas",
+              "no",
+              "entra\u00f1a",
+              "ning\u00fan",
+              "problema",
+              "."
+            ],
+            "idx_ambig_item": 5,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "recepci\u00f3n de algo",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Esta",
+              "antena",
+              "permite",
+              "la",
+              "captaci\u00f3n",
+              "de",
+              "las",
+              "emisiones",
+              "de",
+              "radio",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "En",
+              "los",
+              "lugares",
+              "secos",
+              "es",
+              "necesaria",
+              "la",
+              "captaci\u00f3n",
+              "y",
+              "el",
+              "aprovechamiento",
+              "de",
+              "las",
+              "aguas",
+              "de",
+              "los",
+              "manantiales",
+              "."
+            ],
+            "idx_ambig_item": 7,
+            "source": "Clave"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "atracci\u00f3n de nuevos partidarios",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Pusieron",
+              "un",
+              "anuncio",
+              "para",
+              "lograr",
+              "la",
+              "captaci\u00f3n",
+              "de",
+              "socios",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.9299
+  },
+  "cartera|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "utensilio que se utiliza para guardar dinero",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "En",
+              "la",
+              "cartera",
+              "guardo",
+              "las",
+              "tarjetas",
+              "del",
+              "banco",
+              "y",
+              "los",
+              "billetes",
+              "."
+            ],
+            "idx_ambig_item": 2,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "utensilio que se utiliza para llevar documentos o libros",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Los",
+              "ni\u00f1os",
+              "van",
+              "al",
+              "colegio",
+              "con",
+              "sus",
+              "carteras",
+              "."
+            ],
+            "idx_ambig_item": 7,
+            "source": "Clave"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "conjunto de valores comerciales que forman parte del activo de una entidad comercial",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Las",
+              "acciones",
+              "reci\u00e9n",
+              "adquiridas",
+              "pasan",
+              "a",
+              "formar",
+              "parte",
+              "de",
+              "la",
+              "cartera",
+              "de",
+              "la",
+              "empresa",
+              "."
+            ],
+            "idx_ambig_item": 10,
+            "source": "Clave"
+          }
+        ]
+      },
+      "4": {
+        "description_ES": "conjunto de clientes, art\u00edculos o factores que abarca la actividad de una entidad comercial",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Nuestra",
+              "cartera",
+              "de",
+              "clientes",
+              "est\u00e1",
+              "formada",
+              "por",
+              "empresas",
+              "del",
+              "sector",
+              "inform\u00e1tico",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "5": {
+        "description_ES": "empleo de ministro",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Ocupa",
+              "la",
+              "cartera",
+              "de",
+              "Asuntos",
+              "Exteriores",
+              "."
+            ],
+            "idx_ambig_item": 2,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5919
+  },
+  "cierre|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "lo que sirve para cerrar",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Se",
+              "me",
+              "clavaron",
+              "algunas",
+              "de",
+              "sus",
+              "armas",
+              "y",
+              "los",
+              "cierres",
+              "de",
+              "su",
+              "chaleco",
+              "antibalas",
+              "."
+            ],
+            "idx_ambig_item": 9,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "uni\u00f3n de las partes de algo",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Nadie",
+              "hablaba",
+              ";",
+              "los",
+              "sonidos",
+              "correspond\u00edan",
+              "a",
+              "puertas",
+              "y",
+              "a",
+              "cajones",
+              "que",
+              "se",
+              "abr\u00edan",
+              "y",
+              "se",
+              "cerraban",
+              ",",
+              "a",
+              "cierres",
+              "de",
+              "valijas",
+              "."
+            ],
+            "idx_ambig_item": 19,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "terminaci\u00f3n de un proceso",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "cierre",
+              "de",
+              "la",
+              "carretera",
+              "de",
+              "circunvalaci\u00f3n",
+              "se",
+              "retras\u00f3",
+              "sobre",
+              "el",
+              "plazo",
+              "previsto",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "4": {
+        "description_ES": "delimitaci\u00f3n de un espacio y terminaci\u00f3n de las actividades que ocurren dentro",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "juez",
+              "orden\u00f3",
+              "el",
+              "cierre",
+              "de",
+              "la",
+              "sala",
+              "al",
+              "p\u00fablico",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "La",
+              "hora",
+              "de",
+              "cierre",
+              "de",
+              "la",
+              "tienda",
+              "la",
+              "establece",
+              "el",
+              "due\u00f1o",
+              "."
+            ],
+            "idx_ambig_item": 3,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5919
+  },
+  "compa\u00f1\u00eda|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "acompa\u00f1amiento",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Mi",
+              "familia",
+              "me",
+              "hizo",
+              "compa\u00f1\u00eda",
+              "en",
+              "el",
+              "hospital",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "asociaci\u00f3n",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Diferentes",
+              "pero",
+              "iguales",
+              ",",
+              "todos",
+              "ellos",
+              "constitu\u00edan",
+              "el",
+              "verdadero",
+              "esp\u00edritu",
+              "de",
+              "su",
+              "peque\u00f1a",
+              "pero",
+              "gran",
+              "compa\u00f1\u00eda",
+              "de",
+              "teatro",
+              ",",
+              "forjada",
+              "desde",
+              "los",
+              "cimientos",
+              "m\u00e1s",
+              "humildes",
+              "."
+            ],
+            "idx_ambig_item": 15,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "empresa",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "En",
+              "lo",
+              "que",
+              "se",
+              "refiere",
+              "a",
+              "la",
+              "otra",
+              "gran",
+              "\u00e1rea",
+              "de",
+              "la",
+              "compa\u00f1\u00eda",
+              ",",
+              "infraestructuras",
+              ",",
+              "quiero",
+              "primero",
+              "resaltar",
+              "su",
+              "importancia",
+              "en",
+              "el",
+              "desarrollo",
+              "econ\u00f3mico",
+              "y",
+              "social",
+              "de",
+              "nuestro",
+              "entorno",
+              "."
+            ],
+            "idx_ambig_item": 12,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.3291
+  },
+  "cotizaci\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "pago de una cuota",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Para",
+              "ser",
+              "beneficiario",
+              "de",
+              "la",
+              "pensi\u00f3n",
+              "de",
+              "jubilaci\u00f3n",
+              "de",
+              "la",
+              "Seguridad",
+              "Social",
+              "es",
+              "necesario",
+              "un",
+              "m\u00ednimo",
+              "de",
+              "quince",
+              "a\u00f1os",
+              "de",
+              "cotizaci\u00f3n",
+              "."
+            ],
+            "idx_ambig_item": 20,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "publicaci\u00f3n de un precio (especialmente de acci\u00f3nes en la bolsa)",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "rumor",
+              "de",
+              "quiebra",
+              "ha",
+              "hecho",
+              "descender",
+              "la",
+              "cotizaci\u00f3n",
+              "de",
+              "las",
+              "acciones",
+              "de",
+              "esta",
+              "empresa",
+              "."
+            ],
+            "idx_ambig_item": 8,
+            "source": "Clave"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "estima",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Su",
+              "cotizaci\u00f3n",
+              "como",
+              "jugador",
+              "de",
+              "f\u00fatbol",
+              "aumenta",
+              "d\u00eda",
+              "a",
+              "d\u00eda",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.6182
+  },
+  "cuota|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "cantidad de dinero que se debe pagar",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Este",
+              "mes",
+              "nos",
+              "han",
+              "subido",
+              "la",
+              "cuota",
+              "del",
+              "club",
+              "de",
+              "tenis",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "parte o porci\u00f3n fija y proporcional",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Esperamos",
+              "obtener",
+              "una",
+              "importante",
+              "cuota",
+              "de",
+              "beneficios",
+              "para",
+              "nuestro",
+              "departamento",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.9183
+  },
+  "descuento|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "rebaja (especialmente de un precio)",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Cojo",
+              "mi",
+              "tarjeta",
+              "universitaria",
+              "(",
+              "15",
+              "%",
+              "de",
+              "descuento",
+              "en",
+              "tatuajes",
+              ")",
+              "y",
+              "empujo",
+              "la",
+              "puerta",
+              "acristalada",
+              "con",
+              "las",
+              "manos",
+              ",",
+              "dejando",
+              "que",
+              "la",
+              "barra",
+              "met\u00e1lica",
+              "me",
+              "las",
+              "congele",
+              "."
+            ],
+            "idx_ambig_item": 8,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "tiempo adicional",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "gol",
+              "del",
+              "desempate",
+              "lleg\u00f3",
+              "en",
+              "los",
+              "minutos",
+              "de",
+              "descuento",
+              "."
+            ],
+            "idx_ambig_item": 9,
+            "source": "Clave"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "adelanto que efect\u00faa un banco al tenedor de una letra de cambio",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Unos",
+              "cuantos",
+              "meses",
+              "antes",
+              ",",
+              "mi",
+              "padre",
+              "le",
+              "hab\u00eda",
+              "pedido",
+              "que",
+              "le",
+              "avalara",
+              "con",
+              "unas",
+              "letras",
+              "de",
+              "descuento",
+              "de",
+              "un",
+              "banco",
+              "."
+            ],
+            "idx_ambig_item": 17,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.3291
+  },
+  "desplome|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "ca\u00edda de algo que estaba en posici\u00f3n vertical",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Las",
+              "escaleras",
+              "yac\u00edan",
+              "casi",
+              "enterradas",
+              "por",
+              "el",
+              "desplome",
+              "de",
+              "una",
+              "pared",
+              "adyacente",
+              ",",
+              "por",
+              "lo",
+              "que",
+              "casi",
+              "tuve",
+              "que",
+              "escalar",
+              "."
+            ],
+            "idx_ambig_item": 7,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "desaparici\u00f3n de algo",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "desplome",
+              "del",
+              "mercado",
+              "inmobiliario",
+              "estadounidense",
+              "y",
+              "la",
+              "consiguiente",
+              "crisis",
+              "financiera",
+              "fueron",
+              "un",
+              "duro",
+              "golpe",
+              "para",
+              "nosotros",
+              ",",
+              "como",
+              "para",
+              "muchos",
+              "otros",
+              "banco",
+              "europeos",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.9911
+  },
+  "deuda|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "cantidad de dinero que se debe pagar",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Antes",
+              "de",
+              "marcharse",
+              "del",
+              "pa\u00eds",
+              "pag\u00f3",
+              "todas",
+              "sus",
+              "deudas",
+              "."
+            ],
+            "idx_ambig_item": 8,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "pecado, culpa",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "En",
+              "la",
+              "oraci\u00f3n",
+              "del",
+              "padrenuestro",
+              "se",
+              "dec\u00eda",
+              "\u2018",
+              "perd\u00f3nanos",
+              "nuestras",
+              "deudas",
+              "\u2019",
+              "."
+            ],
+            "idx_ambig_item": 10,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.7642
+  },
+  "distribuci\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "reparto o colocaci\u00f3n de las partes de un todo",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "distribuci\u00f3n",
+              "del",
+              "trabajo",
+              "se",
+              "har\u00e1",
+              "seg\u00fan",
+              "la",
+              "capacidad",
+              "de",
+              "cada",
+              "uno",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Har\u00e9",
+              "la",
+              "distribuci\u00f3n",
+              "de",
+              "los",
+              "muebles",
+              "seg\u00fan",
+              "su",
+              "utilidad",
+              "."
+            ],
+            "idx_ambig_item": 2,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "reparto de mercanc\u00eda a vendedores y consumidores",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Esa",
+              "empresa",
+              "se",
+              "dedica",
+              "a",
+              "la",
+              "distribuci\u00f3n",
+              "de",
+              "pel\u00edculas",
+              "a",
+              "los",
+              "cines",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "forma de distribuir (especialmente las partes de un edificio)",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "distribuci\u00f3n",
+              "de",
+              "esta",
+              "casa",
+              "es",
+              "muy",
+              "funcional",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.7897
+  },
+  "divisa|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "moneda extranjera",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "intervenci\u00f3n",
+              "del",
+              "Banco",
+              "de",
+              "Espa\u00f1a",
+              "en",
+              "defensa",
+              "de",
+              "nuestra",
+              "moneda",
+              "est\u00e1",
+              "reduciendo",
+              "las",
+              "reservas",
+              "de",
+              "divisas",
+              "."
+            ],
+            "idx_ambig_item": 16,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "s\u00edmbolo, eslogan",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "lema",
+              "\u2018",
+              "libertad",
+              ",",
+              "igualdad",
+              ",",
+              "fraternidad",
+              "\u2019",
+              "fue",
+              "la",
+              "divisa",
+              "de",
+              "la",
+              "Revoluci\u00f3n",
+              "francesa",
+              "de",
+              "1789",
+              "."
+            ],
+            "idx_ambig_item": 11,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.0
+  },
+  "divisi\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "reparto entre varios y grupos creados por este reparto (p.ej. en una empresa)",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Un",
+              "municipio",
+              "es",
+              "una",
+              "divisi\u00f3n",
+              "territorial",
+              "y",
+              "administrativa",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "La",
+              "divisi\u00f3n",
+              "del",
+              "trabajo",
+              "supone",
+              "una",
+              "especializaci\u00f3n",
+              "en",
+              "las",
+              "distintas",
+              "partes",
+              "del",
+              "proceso",
+              "de",
+              "producci\u00f3n",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "enemistad entre personas",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "No",
+              "existe",
+              "divisi\u00f3n",
+              "en",
+              "el",
+              "partido",
+              ",",
+              "y",
+              "todos",
+              "apoyamos",
+              "a",
+              "nuestro",
+              "presidente",
+              "."
+            ],
+            "idx_ambig_item": 2,
+            "source": "Clave"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "categor\u00eda o liga en deporte",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Jugar",
+              "en",
+              "primera",
+              "divisi\u00f3n",
+              "es",
+              "la",
+              "aspiraci\u00f3n",
+              "de",
+              "este",
+              "futbolista",
+              "."
+            ],
+            "idx_ambig_item": 3,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5529
+  },
+  "ejercicio|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "realizaci\u00f3n de una factultad, derecho o profesi\u00f3n",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Era",
+              "la",
+              "due\u00f1a",
+              "y",
+              "entr\u00f3",
+              "en",
+              "la",
+              "finca",
+              "haciendo",
+              "ejercicio",
+              "de",
+              "sus",
+              "derechos",
+              "."
+            ],
+            "idx_ambig_item": 9,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "El",
+              "ejercicio",
+              "de",
+              "la",
+              "cirug\u00eda",
+              "le",
+              "ha",
+              "dado",
+              "mucha",
+              "fama",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "movimiento corporal",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Si",
+              "quieres",
+              "perder",
+              "peso",
+              ",",
+              "tendr\u00e1s",
+              "que",
+              "hacer",
+              "ejercicio",
+              "."
+            ],
+            "idx_ambig_item": 8,
+            "source": "Clave"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "actividad, tarea o prueba pr\u00e1ctica",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Intentar",
+              "recordar",
+              "alg\u00fan",
+              "poema",
+              "es",
+              "un",
+              "buen",
+              "ejercicio",
+              "para",
+              "la",
+              "memoria",
+              "."
+            ],
+            "idx_ambig_item": 7,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Suspend\u00ed",
+              "el",
+              "ejercicio",
+              "pr\u00e1ctico",
+              "pero",
+              "aprob\u00e9",
+              "el",
+              "oral",
+              "."
+            ],
+            "idx_ambig_item": 2,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "De",
+              "deberes",
+              "tenemos",
+              "unos",
+              "ejercicios",
+              "de",
+              "gram\u00e1tica",
+              "sobre",
+              "el",
+              "uso",
+              "del",
+              "subjuntivo",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          }
+        ]
+      },
+      "4": {
+        "description_ES": "per\u00edodo de tiempo (generalmente de un a\u00f1o)",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Cerramos",
+              "el",
+              "\u00faltimo",
+              "ejercicio",
+              "con",
+              "ganancias",
+              "."
+            ],
+            "idx_ambig_item": 3,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.4526
+  },
+  "emisi\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "expulsi\u00f3n de una materia",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "emisi\u00f3n",
+              "de",
+              "calor",
+              "de",
+              "este",
+              "radiador",
+              "es",
+              "muy",
+              "baja",
+              "porque",
+              "tiene",
+              "poca",
+              "potencia",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "puesta en circulaci\u00f3n (especialmente de productos financieros)",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "emisi\u00f3n",
+              "de",
+              "t\u00edtulos",
+              "de",
+              "deuda",
+              "p\u00fablica",
+              "permitir\u00e1",
+              "al",
+              "Estado",
+              "recaudar",
+              "dinero",
+              "para",
+              "financiar",
+              "varios",
+              "proyectos",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "manifestaci\u00f3n",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "emisi\u00f3n",
+              "de",
+              "la",
+              "sentencia",
+              "tendr\u00e1",
+              "lugar",
+              "al",
+              "d\u00eda",
+              "siguiente",
+              "del",
+              "juicio",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "4": {
+        "description_ES": "transmisi\u00f3n (especialmente a trav\u00e9s de ondas hertzianas)",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "emisi\u00f3n",
+              "televisiva",
+              "se",
+              "cerrar\u00e1",
+              "a",
+              "las",
+              "doce",
+              "de",
+              "la",
+              "noche",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.6495
+  },
+  "encarecimiento|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "aumento de precio",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Un",
+              "efecto",
+              "que",
+              "se",
+              "ha",
+              "visto",
+              "diluido",
+              "por",
+              "el",
+              "encarecimiento",
+              "de",
+              "las",
+              "materias",
+              "primas",
+              "y",
+              "del",
+              "petr\u00f3leo",
+              "."
+            ],
+            "idx_ambig_item": 9,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "exageraci\u00f3n",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "encarecimiento",
+              "que",
+              "tu",
+              "jefa",
+              "me",
+              "hizo",
+              "de",
+              "tu",
+              "trabajo",
+              "era",
+              "innecesario",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "insistencia",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Me",
+              "pidi\u00f3",
+              "con",
+              "encarecimiento",
+              "que",
+              "no",
+              "lo",
+              "abandonase",
+              "en",
+              "aquel",
+              "momento",
+              "."
+            ],
+            "idx_ambig_item": 3,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5273
+  },
+  "entidad|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "valor, importancia",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Comparados",
+              "con",
+              "el",
+              "hambre",
+              "en",
+              "el",
+              "mundo",
+              ",",
+              "mis",
+              "problemas",
+              "tienen",
+              "muy",
+              "poca",
+              "entidad",
+              "."
+            ],
+            "idx_ambig_item": 13,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "colectividad, empresa",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "desglose",
+              "de",
+              "primas",
+              "muestra",
+              "el",
+              "peso",
+              "relevante",
+              "de",
+              "las",
+              "aportadas",
+              "por",
+              "las",
+              "entidades",
+              "de",
+              "seguros",
+              ",",
+              "que",
+              "superaron",
+              "en",
+              "2016",
+              "los",
+              "18.700",
+              "millones",
+              "de",
+              "euros",
+              "."
+            ],
+            "idx_ambig_item": 13,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.0
+  },
+  "estimaci\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "aprecio",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Tu",
+              "labor",
+              "cuenta",
+              "con",
+              "mi",
+              "m\u00e1s",
+              "alta",
+              "estimaci\u00f3n",
+              "."
+            ],
+            "idx_ambig_item": 7,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "juicio o consideraci\u00f3n sobre algo",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Procura",
+              "hacer",
+              "una",
+              "estimaci\u00f3n",
+              "objetiva",
+              "de",
+              "la",
+              "situaci\u00f3n",
+              "."
+            ],
+            "idx_ambig_item": 3,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5033
+  },
+  "evoluci\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "desarrollo, cambio",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "En",
+              "los",
+              "\u00faltimos",
+              "a\u00f1os",
+              ",",
+              "se",
+              "ha",
+              "producido",
+              "una",
+              "gran",
+              "evoluci\u00f3n",
+              "en",
+              "la",
+              "sociedad",
+              "espa\u00f1ola",
+              "."
+            ],
+            "idx_ambig_item": 10,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "desplazamiento con curvas",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "p\u00fablico",
+              "aplaud\u00eda",
+              "entusiasmado",
+              "las",
+              "evoluciones",
+              "de",
+              "la",
+              "bailarina",
+              "."
+            ],
+            "idx_ambig_item": 5,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5033
+  },
+  "expansi\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "propagaci\u00f3n, extensi\u00f3n",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "expansi\u00f3n",
+              "de",
+              "la",
+              "epidemia",
+              "produjo",
+              "numerosas",
+              "muertes",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "manifestaci\u00f3n de un afecto o pensamiento",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Su",
+              "expansi\u00f3n",
+              "de",
+              "alegr\u00eda",
+              "contagi\u00f3",
+              "a",
+              "toda",
+              "la",
+              "familia",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "recreo, diversi\u00f3n",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Necesito",
+              "un",
+              "momento",
+              "de",
+              "expansi\u00f3n",
+              "despu\u00e9s",
+              "del",
+              "duro",
+              "trabajo",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5821
+  },
+  "explotaci\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "(conjunto de instalaciones destinadas a la) gesti\u00f3n y aprovechamiento de un negocio",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Cansados",
+              "por",
+              "el",
+              "esfuerzo",
+              ",",
+              "esperaban",
+              "a",
+              "que",
+              "sus",
+              "dos",
+              "jinetes",
+              "terminaran",
+              "de",
+              "hablar",
+              "con",
+              "el",
+              "propietario",
+              "de",
+              "la",
+              "explotaci\u00f3n",
+              "ganadera",
+              "."
+            ],
+            "idx_ambig_item": 19,
+            "source": "SCAP"
+          },
+          {
+            "l_toks": [
+              "La",
+              "explotaci\u00f3n",
+              "de",
+              "esta",
+              "mina",
+              "produce",
+              "grandes",
+              "beneficios",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "utilizaci\u00f3n abusiva y en provecho propio de otra(s) persona(s)",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Los",
+              "empleados",
+              "han",
+              "hecho",
+              "frente",
+              "com\u00fan",
+              "ante",
+              "la",
+              "explotaci\u00f3n",
+              "a",
+              "la",
+              "que",
+              "se",
+              "ven",
+              "sometidos",
+              "por",
+              "parte",
+              "de",
+              "su",
+              "empresa",
+              "."
+            ],
+            "idx_ambig_item": 8,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.3291
+  },
+  "fabricaci\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "producci\u00f3n en serie (generalmente por medios mec\u00e1nicos)",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Esa",
+              "empresa",
+              "se",
+              "dedica",
+              "a",
+              "la",
+              "fabricaci\u00f3n",
+              "de",
+              "televisores",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "creaci\u00f3n de algo",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "cine",
+              "alimenta",
+              "la",
+              "fabricaci\u00f3n",
+              "de",
+              "\u00eddolos",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.9183
+  },
+  "facturaci\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "entrega de un equipaje o una mercanc\u00eda",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "En",
+              "la",
+              "estaci\u00f3n",
+              "de",
+              "autobuses",
+              "hay",
+              "un",
+              "mostrador",
+              "para",
+              "la",
+              "facturaci\u00f3n",
+              "de",
+              "equipajes",
+              "."
+            ],
+            "idx_ambig_item": 10,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "elaboraci\u00f3n de una factura",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "facturaci\u00f3n",
+              "de",
+              "los",
+              "libros",
+              "que",
+              "he",
+              "comprado",
+              "me",
+              "la",
+              "har\u00e1n",
+              "ma\u00f1ana",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "volumen de ventas",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "equipo",
+              "espa\u00f1ol",
+              "era",
+              "de",
+              "los",
+              "m\u00e1s",
+              "rentables",
+              "de",
+              "toda",
+              "la",
+              "red",
+              "de",
+              "oficinas",
+              ",",
+              "aunque",
+              "su",
+              "volumen",
+              "de",
+              "facturaci\u00f3n",
+              "apenas",
+              "llegaba",
+              "para",
+              "pagar",
+              "lo",
+              "que",
+              "el",
+              "despacho",
+              "gastaba",
+              "en",
+              "un",
+              "a\u00f1o",
+              "en",
+              "l\u00e1pices",
+              "."
+            ],
+            "idx_ambig_item": 19,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.9101
+  },
+  "fibra|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "filamento que forma parte de algunos tejidos org\u00e1nicos",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Los",
+              "m\u00fasculos",
+              "est\u00e1n",
+              "formados",
+              "por",
+              "fibra",
+              "muscular",
+              "."
+            ],
+            "idx_ambig_item": 5,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "hilo artificial usado en telas",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Salto",
+              "de",
+              "la",
+              "cama",
+              "y",
+              "me",
+              "arrodillo",
+              "junto",
+              "a",
+              "la",
+              "cesta",
+              "donde",
+              "lo",
+              "dej\u00e9",
+              "anoche",
+              ",",
+              "arropado",
+              "con",
+              "una",
+              "manta",
+              "de",
+              "fibra",
+              "deshilachada",
+              "que",
+              "me",
+              "traje",
+              "de",
+              "casa",
+              "de",
+              "mis",
+              "abuelos",
+              "el",
+              "d\u00eda",
+              "que",
+              "me",
+              "mud\u00e9",
+              "a",
+              "la",
+              "palestra",
+              "."
+            ],
+            "idx_ambig_item": 21,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "filamento usado para transmitir se\u00f1ales luminosas",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "futuro",
+              "de",
+              "las",
+              "comunicaciones",
+              "se",
+              "basa",
+              "en",
+              "la",
+              "fibra",
+              "\u00f3ptica",
+              "."
+            ],
+            "idx_ambig_item": 9,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.714
+  },
+  "flota|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "conjunto de barcos",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Nadie",
+              "vive",
+              "ya",
+              "en",
+              "palacio",
+              ",",
+              "todo",
+              "el",
+              "mundo",
+              "ha",
+              "sido",
+              "evacuado",
+              "a",
+              "las",
+              "flotas",
+              "de",
+              "barcos",
+              "y",
+              "evitamos",
+              "poner",
+              "los",
+              "pies",
+              "en",
+              "tierra",
+              "bajo",
+              "ning\u00fan",
+              "concepto",
+              "."
+            ],
+            "idx_ambig_item": 14,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "conjunto de veh\u00edculos",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Al",
+              "poco",
+              ",",
+              "una",
+              "flota",
+              "de",
+              "coches",
+              "celulares",
+              "y",
+              "un",
+              "cami\u00f3n",
+              "de",
+              "bomberos",
+              "pasaron",
+              "junto",
+              "a",
+              "\u00e9l",
+              "salt\u00e1ndose",
+              "los",
+              "sem\u00e1foros",
+              "en",
+              "direcci\u00f3n",
+              "al",
+              "centro",
+              "de",
+              "la",
+              "ciudad",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.9183
+  },
+  "franquicia|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "privilegio concedido a una persona o entidad para que quede libre del pago de impuestos",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Los",
+              "organismos",
+              "oficiales",
+              "gozan",
+              "de",
+              "franquicia",
+              "postal",
+              "y",
+              "no",
+              "tienen",
+              "que",
+              "pagar",
+              "sus",
+              "env\u00edos",
+              "por",
+              "correo",
+              "."
+            ],
+            "idx_ambig_item": 5,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "contrato mediante el que una empresa autoriza a utilizar su marca",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "He",
+              "solicitado",
+              "una",
+              "franquicia",
+              "a",
+              "una",
+              "famosa",
+              "marca",
+              "para",
+              "poner",
+              "una",
+              "tienda",
+              "."
+            ],
+            "idx_ambig_item": 3,
+            "source": "Clave"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "establecimiento que est\u00e1 bajo las condiciones de un contrato de franquicia",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "En",
+              "ese",
+              "centro",
+              "comercial",
+              "hay",
+              "muchas",
+              "franquicias",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.6182
+  },
+  "fusi\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "uni\u00f3n de dos cosas o entidades en una sola",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "coalici\u00f3n",
+              "responde",
+              "a",
+              "la",
+              "fusi\u00f3n",
+              "de",
+              "los",
+              "intereses",
+              "de",
+              "ambas",
+              "partes",
+              "."
+            ],
+            "idx_ambig_item": 5,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Como",
+              "resultado",
+              "de",
+              "la",
+              "fusi\u00f3n",
+              "se",
+              "cre\u00f3",
+              "uno",
+              "de",
+              "los",
+              "l\u00edderes",
+              "globales",
+              "del",
+              "sector",
+              "tanto",
+              "en",
+              "el",
+              "segmento",
+              "onshore",
+              "como",
+              "offshore",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "reacci\u00f3n nuclear",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Todos",
+              "sabemos",
+              "que",
+              "cada",
+              "Comunidad",
+              "tiene",
+              "una",
+              "estaci\u00f3n",
+              "subterr\u00e1nea",
+              "de",
+              "energ\u00eda",
+              "de",
+              "fusi\u00f3n",
+              "nuclear",
+              ",",
+              "alimentada",
+              "con",
+              "el",
+              "deuterio",
+              "extra\u00eddo",
+              "del",
+              "agua",
+              "del",
+              "mar",
+              "y",
+              "los",
+              "oc\u00e9anos",
+              "."
+            ],
+            "idx_ambig_item": 12,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5821
+  },
+  "gigante|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "persona o figura de gran altura",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "En",
+              "los",
+              "cuentos",
+              "infantiles",
+              "aparecen",
+              "muchos",
+              "gigantes",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "En",
+              "las",
+              "fiestas",
+              "de",
+              "mi",
+              "pueblo",
+              "hay",
+              "desfiles",
+              "de",
+              "gigantes",
+              "y",
+              "cabezudos",
+              "."
+            ],
+            "idx_ambig_item": 9,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "persona o empresa que destaca por su importancia",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Cervantes",
+              "fue",
+              "un",
+              "gigante",
+              "de",
+              "la",
+              "literatura",
+              "."
+            ],
+            "idx_ambig_item": 3,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Esta",
+              "empresa",
+              "es",
+              "un",
+              "gigante",
+              "dentro",
+              "de",
+              "su",
+              "sector",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.2897
+  },
+  "homologaci\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "equiparaci\u00f3n de una cosa a otra",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "homologaci\u00f3n",
+              "de",
+              "sus",
+              "salarios",
+              "con",
+              "los",
+              "del",
+              "resto",
+              "de",
+              "los",
+              "trabajadores",
+              "de",
+              "la",
+              "empresa",
+              "fue",
+              "dif\u00edcil",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "registro, confirmaci\u00f3n, verificaci\u00f3n",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "homologaci\u00f3n",
+              "de",
+              "ese",
+              "r\u00e9cord",
+              "tard\u00f3",
+              "unos",
+              "meses",
+              "en",
+              "realizarse",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Rechazaron",
+              "mi",
+              "solicitud",
+              "por",
+              "la",
+              "falta",
+              "de",
+              "homologaci\u00f3n",
+              "de",
+              "mis",
+              "estudios",
+              "de",
+              "idiomas",
+              "."
+            ],
+            "idx_ambig_item": 7,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5821
+  },
+  "impacto|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "choque de un objeto con otro",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Aguard\u00f3",
+              "unos",
+              "segundos",
+              "y",
+              ",",
+              "enseguida",
+              ",",
+              "una",
+              "segunda",
+              "andanada",
+              "de",
+              "impactos",
+              ",",
+              "atenuados",
+              "por",
+              "el",
+              "cuerpo",
+              "p\u00e9treo",
+              "de",
+              "los",
+              "muros",
+              ",",
+              "volvi\u00f3",
+              "a",
+              "notarse",
+              "en",
+              "un",
+              "tabique",
+              "lateral",
+              "que",
+              "deb\u00eda",
+              "de",
+              "ser",
+              "m\u00e1s",
+              "delgado",
+              "."
+            ],
+            "idx_ambig_item": 11,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "huella que deja una acci\u00f3n o un acontecimiento",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Las",
+              "salpicaduras",
+              "en",
+              "la",
+              "pared",
+              "delataban",
+              "el",
+              "impacto",
+              "de",
+              "la",
+              "bala",
+              "contra",
+              "su",
+              "cabeza",
+              "."
+            ],
+            "idx_ambig_item": 7,
+            "source": "SCAP"
+          },
+          {
+            "l_toks": [
+              "Las",
+              "declaraciones",
+              "del",
+              "presidente",
+              "causaron",
+              "gran",
+              "impacto",
+              "en",
+              "la",
+              "opini\u00f3n",
+              "p\u00fablica",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Espera",
+              "un",
+              "momento",
+              ",",
+              "tengo",
+              "en",
+              "los",
+              "archivos",
+              "el",
+              "informe",
+              "de",
+              "impacto",
+              "medioambiental",
+              "."
+            ],
+            "idx_ambig_item": 11,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.2411
+  },
+  "incentivo|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "lo que estimula la realizaci\u00f3n de una actividad",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Esta",
+              "empresa",
+              "da",
+              "incentivos",
+              "a",
+              "sus",
+              "trabajadores",
+              "cada",
+              "tres",
+              "meses",
+              "."
+            ],
+            "idx_ambig_item": 3,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "lo que resulta gratificante",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Leer",
+              "es",
+              "uno",
+              "de",
+              "los",
+              "incentivos",
+              "del",
+              "fin",
+              "de",
+              "semana",
+              "."
+            ],
+            "idx_ambig_item": 5,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.9183
+  },
+  "integraci\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "formaci\u00f3n, composici\u00f3n",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "entrenadora",
+              "decidir\u00e1",
+              "cu\u00e1l",
+              "ser\u00e1",
+              "la",
+              "integraci\u00f3n",
+              "del",
+              "equipo",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "incorporaci\u00f3n a un todo",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Algunas",
+              "instituciones",
+              "ben\u00e9ficas",
+              "trabajan",
+              "por",
+              "la",
+              "integraci\u00f3n",
+              "social",
+              "de",
+              "los",
+              "marginados",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.7642
+  },
+  "inversi\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "alteraci\u00f3n",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "En",
+              "espa\u00f1ol",
+              ",",
+              "en",
+              "las",
+              "preguntas",
+              "directas",
+              "hay",
+              "una",
+              "inversi\u00f3n",
+              "del",
+              "orden",
+              "sujeto\u2013verbo",
+              "en",
+              "verbo\u2013sujeto",
+              "."
+            ],
+            "idx_ambig_item": 9,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "empleo de recursos (especialmente recursos financieros)",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "modernizaci\u00f3n",
+              "de",
+              "la",
+              "empresa",
+              "ha",
+              "sido",
+              "posible",
+              "gracias",
+              "a",
+              "la",
+              "inversi\u00f3n",
+              "de",
+              "capital",
+              "extranjero",
+              "."
+            ],
+            "idx_ambig_item": 11,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "En",
+              "un",
+              "proyecto",
+              "a",
+              "largo",
+              "plazo",
+              "siempre",
+              "hay",
+              "una",
+              "gran",
+              "inversi\u00f3n",
+              "de",
+              "tiempo",
+              "."
+            ],
+            "idx_ambig_item": 10,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.3955
+  },
+  "junta|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "reuni\u00f3n de personas",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Hoy",
+              "es",
+              "la",
+              "junta",
+              "de",
+              "vecinos",
+              "para",
+              "decidir",
+              "si",
+              "se",
+              "pinta",
+              "la",
+              "escalera",
+              "."
+            ],
+            "idx_ambig_item": 3,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "La",
+              "junta",
+              "directiva",
+              "se",
+              "re\u00fane",
+              "todos",
+              "los",
+              "viernes",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Van",
+              "a",
+              "trasladar",
+              "la",
+              "junta",
+              "de",
+              "distrito",
+              "a",
+              "otra",
+              "calle",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "parte en que se juntan dos o m\u00e1s cosas",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Est\u00e1",
+              "soldando",
+              "la",
+              "junta",
+              "de",
+              "las",
+              "tuber\u00edas",
+              "."
+            ],
+            "idx_ambig_item": 3,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Se",
+              "ha",
+              "roto",
+              "la",
+              "junta",
+              "de",
+              "goma",
+              "del",
+              "grifo",
+              "y",
+              "no",
+              "puedo",
+              "cerrarlo",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.3539
+  },
+  "lanzamiento|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "impulso que se da a algo de modo que salga despedido",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Realizaron",
+              "el",
+              "lanzamiento",
+              "del",
+              "transbordador",
+              "espacial",
+              "con",
+              "tres",
+              "tripulantes",
+              "a",
+              "bordo",
+              "."
+            ],
+            "idx_ambig_item": 2,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Nuestro",
+              "equipo",
+              "tuvo",
+              "mala",
+              "suerte",
+              "porque",
+              "realiz\u00f3",
+              "much\u00edsimos",
+              "lanzamientos",
+              "a",
+              "puerta",
+              "pero",
+              "no",
+              "marc\u00f3",
+              "ning\u00fan",
+              "gol",
+              "."
+            ],
+            "idx_ambig_item": 8,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "anuncio, propaganda (especialmente de una novedad)",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "lanzamiento",
+              "del",
+              "nuevo",
+              "coche",
+              "deportivo",
+              "no",
+              "tuvo",
+              "\u00e9xito",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.7642
+  },
+  "libra|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "persona nacida entre el 23 de septiembre y el 23 de octubre",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Los",
+              "libra",
+              "son",
+              "muy",
+              "equilibrados",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "unidad monetaria",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "libra",
+              "libanesa",
+              "tiene",
+              "distinto",
+              "valor",
+              "que",
+              "la",
+              "libra",
+              "chipriota",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "unidad de peso",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Una",
+              "libra",
+              "tiene",
+              "16",
+              "onzas",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.4248
+  },
+  "liquidez|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "capacidad de hacer frente a obligaciones financieras",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Aunque",
+              "tengo",
+              "mucho",
+              "dinero",
+              "invertido",
+              ",",
+              "ahora",
+              "mismo",
+              "no",
+              "tengo",
+              "liquidez",
+              "."
+            ],
+            "idx_ambig_item": 10,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "falta de cohesi\u00f3n entre las mol\u00e9culas de una sustancia",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "A",
+              "trav\u00e9s",
+              "de",
+              "la",
+              "puerta",
+              "de",
+              "mosquitero",
+              "crey\u00f3",
+              "distinguir",
+              "el",
+              "resplandor",
+              "que",
+              "llegaba",
+              "de",
+              "una",
+              "ventana",
+              "ilocalizable",
+              ",",
+              "una",
+              "brillantez",
+              "difusa",
+              "que",
+              "otorgaba",
+              "al",
+              "patio",
+              "una",
+              "vibrante",
+              "liquidez",
+              "de",
+              "acuario",
+              "."
+            ],
+            "idx_ambig_item": 27,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.0
+  },
+  "marca|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "se\u00f1al que permite distinguir o reconocer algo",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Dame",
+              "la",
+              "caja",
+              "que",
+              "tiene",
+              "una",
+              "marca",
+              "roja",
+              ",",
+              "por",
+              "favor",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "nombre de un producto",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Recorrieron",
+              "varias",
+              "cuadras",
+              "y",
+              "entraron",
+              "en",
+              "la",
+              "mayor\u00eda",
+              "de",
+              "los",
+              "negocios",
+              "cuyas",
+              "marcas",
+              "les",
+              "interesaban",
+              "."
+            ],
+            "idx_ambig_item": 12,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "huella dejada por algo",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Est\u00e1",
+              "morena",
+              "y",
+              "se",
+              "le",
+              "nota",
+              "la",
+              "marca",
+              "del",
+              "ba\u00f1ador",
+              "."
+            ],
+            "idx_ambig_item": 7,
+            "source": "Clave"
+          }
+        ]
+      },
+      "4": {
+        "description_ES": "sello o estilo caracter\u00edsticos",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Esta",
+              "canci\u00f3n",
+              "tiene",
+              "la",
+              "marca",
+              "de",
+              "la",
+              "d\u00e9cada",
+              "de",
+              "1960",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          }
+        ]
+      },
+      "5": {
+        "description_ES": "mejor resultado homologado",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Puede",
+              "que",
+              "est\u00e9",
+              "batiendo",
+              "mi",
+              "propia",
+              "marca",
+              "personal",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.7212
+  },
+  "matriz|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "\u00f3rgano en que se desarrolla el feto",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Nadie",
+              "adivin\u00f3",
+              "que",
+              "un",
+              "m\u00e9dico",
+              "le",
+              "hab\u00eda",
+              "detectado",
+              ",",
+              "en",
+              "radiograf\u00edas",
+              ",",
+              "dos",
+              "tumores",
+              "en",
+              "la",
+              "matriz",
+              ",",
+              "uno",
+              "peque\u00f1o",
+              "en",
+              "la",
+              "vejiga",
+              "y",
+              "tres",
+              "en",
+              "el",
+              "h\u00edgado",
+              "."
+            ],
+            "idx_ambig_item": 16,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "molde",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Saco",
+              "del",
+              "bolsillo",
+              "de",
+              "mi",
+              "pantal\u00f3n",
+              "la",
+              "matriz",
+              "generadora",
+              "de",
+              "copias",
+              "que",
+              "dise\u00f1\u00e9",
+              "hace",
+              "meses",
+              "."
+            ],
+            "idx_ambig_item": 7,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "entidad (especialmente una empresa) de la que dependen otras",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Les",
+              "dije",
+              "que",
+              "me",
+              "parec\u00eda",
+              "muy",
+              "obtuso",
+              "seguir",
+              "un",
+              "est\u00e1ndar",
+              "de",
+              "ordenaci\u00f3n",
+              "de",
+              "t\u00edtulos",
+              "marcado",
+              "por",
+              "la",
+              "matriz",
+              "de",
+              "la",
+              "franquicia",
+              ",",
+              "era",
+              "poco",
+              "original",
+              "y",
+              "de",
+              "besugos",
+              "."
+            ],
+            "idx_ambig_item": 17,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.2167
+  },
+  "mercado|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "edificio o recinto con tiendas",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Recorr\u00eda",
+              "los",
+              "mercados",
+              ",",
+              "se",
+              "deten\u00eda",
+              "en",
+              "las",
+              "plazuelas",
+              ",",
+              "entraba",
+              "en",
+              "tabernas",
+              "y",
+              "barber\u00edas",
+              "y",
+              "reposaba",
+              "en",
+              "la",
+              "penumbra",
+              "de",
+              "las",
+              "iglesias",
+              ",",
+              "deleit\u00e1ndose",
+              "con",
+              "los",
+              "efluvios",
+              "de",
+              "incienso",
+              "que",
+              "flotaban",
+              "en",
+              "el",
+              "aire",
+              "oscuro",
+              "."
+            ],
+            "idx_ambig_item": 2,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "conjunto de operaciones de compra y venta",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Los",
+              "norteamericanos",
+              "y",
+              "los",
+              "\u00e1rabes",
+              "acaparan",
+              "el",
+              "mercado",
+              "del",
+              "petr\u00f3leo",
+              "."
+            ],
+            "idx_ambig_item": 7,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Las",
+              "empresas",
+              "buscan",
+              "continuamente",
+              "nuevos",
+              "mercados",
+              "."
+            ],
+            "idx_ambig_item": 5,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5273
+  },
+  "morosidad|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "incumplimiento de un plazo",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "morosidad",
+              "en",
+              "los",
+              "pagos",
+              "ser\u00e1",
+              "sancionada",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "lentitud, tardanza",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Su",
+              "morosidad",
+              "en",
+              "el",
+              "trabajo",
+              "me",
+              "saca",
+              "de",
+              "quicio",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.9911
+  },
+  "negocio|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "ocupaci\u00f3n y establecimiento en que se ejerce esta ocupaci\u00f3n",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "mec\u00e1nica",
+              "es",
+              "un",
+              "negocio",
+              "como",
+              "otro",
+              "cualquiera",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "He",
+              "puesto",
+              "un",
+              "negocio",
+              "de",
+              "venta",
+              "de",
+              "ropa",
+              "."
+            ],
+            "idx_ambig_item": 3,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "realizaci\u00f3n de operaciones comerciales",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Tengo",
+              "negocios",
+              "en",
+              "la",
+              "Bolsa",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "beneficio, provecho",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "\u00a1",
+              "No",
+              "pensar\u00e1s",
+              "que",
+              "comprar",
+              "dos",
+              "y",
+              "pagar",
+              "tres",
+              "es",
+              "un",
+              "buen",
+              "negocio",
+              "!"
+            ],
+            "idx_ambig_item": 12,
+            "source": "Clave"
+          }
+        ]
+      },
+      "4": {
+        "description_ES": "asunto, cosa",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "\u00bf",
+              "En",
+              "qu\u00e9",
+              "negocios",
+              "andas",
+              ",",
+              "que",
+              "no",
+              "te",
+              "veo",
+              "el",
+              "pelo",
+              "?"
+            ],
+            "idx_ambig_item": 3,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.6463
+  },
+  "oferta|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "ofrecimiento",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "oferta",
+              "de",
+              "espect\u00e1culos",
+              "de",
+              "este",
+              "fin",
+              "de",
+              "semana",
+              "es",
+              "muy",
+              "amplia",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "En",
+              "esta",
+              "tienda",
+              "hay",
+              "una",
+              "oferta",
+              "de",
+              "televisores",
+              "y",
+              "de",
+              "equipos",
+              "de",
+              "m\u00fasica",
+              "."
+            ],
+            "idx_ambig_item": 5,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Bajaron",
+              "los",
+              "precios",
+              "de",
+              "los",
+              "autom\u00f3viles",
+              "por",
+              "el",
+              "exceso",
+              "de",
+              "oferta",
+              "."
+            ],
+            "idx_ambig_item": 10,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "producto que se vende a precio rebajado",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Esta",
+              "camisa",
+              "es",
+              "una",
+              "oferta",
+              ",",
+              "y",
+              "por",
+              "eso",
+              "sale",
+              "tan",
+              "barata",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.4264
+  },
+  "operador|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "persona o empresa que ofrece un servicio (especialmente servicios t\u00e9cnicos o telef\u00f3nicos)",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Por",
+              "suerte",
+              "el",
+              "operador",
+              "logr\u00f3",
+              "brincar",
+              "antes",
+              "de",
+              "que",
+              "la",
+              "enorme",
+              "m\u00e1quina",
+              "se",
+              "deslizara",
+              "seiscientos",
+              "metros",
+              "hacia",
+              "el",
+              "fondo",
+              "."
+            ],
+            "idx_ambig_item": 3,
+            "source": "SCAP"
+          },
+          {
+            "l_toks": [
+              "Los",
+              "operadores",
+              "de",
+              "datos",
+              "han",
+              "aumentado",
+              "sensiblemente",
+              "su",
+              "negocio",
+              "en",
+              "los",
+              "\u00faltimos",
+              "a\u00f1os",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "persona encargada de establecer comunicaciones",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Le",
+              "dije",
+              "a",
+              "la",
+              "operadora",
+              "que",
+              "me",
+              "pusiera",
+              "con",
+              "tu",
+              "extensi\u00f3n",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.791
+  },
+  "parqu\u00e9|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "suelo de maderas finas",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "repiqueteo",
+              "de",
+              "su",
+              "sandalia",
+              "sobre",
+              "el",
+              "parqu\u00e9",
+              "acompa\u00f1aba",
+              "el",
+              "ritmo",
+              "de",
+              "su",
+              "impaciencia",
+              "."
+            ],
+            "idx_ambig_item": 7,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "bolsa",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "acci\u00f3n",
+              "del",
+              "operador",
+              "de",
+              "parques",
+              "de",
+              "ocio",
+              "cumple",
+              "un",
+              "a\u00f1o",
+              "en",
+              "el",
+              "parqu\u00e9",
+              "con",
+              "una",
+              "revalorizaci\u00f3n",
+              "del",
+              "9,6",
+              "%",
+              "."
+            ],
+            "idx_ambig_item": 13,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.0
+  },
+  "peaje|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "cantidad de dinero que hay que pagar para pasar por un determinado lugar",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Viajar",
+              "por",
+              "autopistas",
+              "de",
+              "peaje",
+              "es",
+              "m\u00e1s",
+              "r\u00e1pido",
+              ",",
+              "aunque",
+              "salga",
+              "un",
+              "poco",
+              "caro",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "repercusi\u00f3n, consecuencia",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Exigen",
+              "el",
+              "cese",
+              "del",
+              "conflicto",
+              "sin",
+              "que",
+              "haya",
+              "que",
+              "pagar",
+              "peaje",
+              "alguno",
+              "."
+            ],
+            "idx_ambig_item": 10,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5033
+  },
+  "plantilla|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "pieza con que se cubre el interior de la planta de un calzado",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Algunos",
+              "m\u00e9dicos",
+              "consultados",
+              "se",
+              "mostraban",
+              "partidarios",
+              "del",
+              "uso",
+              "de",
+              "alzas",
+              "y",
+              "plantillas",
+              "."
+            ],
+            "idx_ambig_item": 11,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "modelo",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Se",
+              "han",
+              "visto",
+              "re\u00edr",
+              ",",
+              "han",
+              "tanteado",
+              "su",
+              "deseo",
+              ",",
+              "se",
+              "han",
+              "o\u00eddo",
+              "hacer",
+              "comentarios",
+              "de",
+              "algo",
+              "que",
+              "sucedi\u00f3",
+              ":",
+              "conocen",
+              "plantillas",
+              "de",
+              "comportamiento",
+              "."
+            ],
+            "idx_ambig_item": 21,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "conjunto de personas (p.ej. los empleados de una empresa o los jugadores de un equipo deportivo)",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Prueba",
+              "de",
+              "ello",
+              "es",
+              "el",
+              "incremento",
+              "progresivo",
+              "de",
+              "la",
+              "presencia",
+              "femenina",
+              "en",
+              "la",
+              "plantilla",
+              "y",
+              ",",
+              "en",
+              "concreto",
+              ",",
+              "en",
+              "los",
+              "puestos",
+              "directivos",
+              ",",
+              "que",
+              "ha",
+              "sido",
+              "de",
+              "un",
+              "43,8",
+              "%",
+              "en",
+              "los",
+              "\u00faltimos",
+              "5",
+              "a\u00f1os",
+              "."
+            ],
+            "idx_ambig_item": 13,
+            "source": "SCAP"
+          },
+          {
+            "l_toks": [
+              "La",
+              "compa\u00f1\u00eda",
+              "tiene",
+              "valorado",
+              "en",
+              "421",
+              "millones",
+              "de",
+              "euros",
+              ",",
+              "los",
+              "derechos",
+              "de",
+              "sus",
+              "plantilla",
+              "de",
+              "f\u00fatbol",
+              ",",
+              "con",
+              "un",
+              "incremento",
+              "superior",
+              "a",
+              "los",
+              "90",
+              "millones",
+              "de",
+              "euros",
+              "respecto",
+              "a",
+              "la",
+              "anterior",
+              "temporada",
+              "."
+            ],
+            "idx_ambig_item": 14,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.523
+  },
+  "plataforma|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "superficie horizontal elevada",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "cura",
+              "estaba",
+              "preparado",
+              ",",
+              "situado",
+              "justo",
+              "en",
+              "el",
+              "centro",
+              "de",
+              "la",
+              "gran",
+              "plataforma",
+              "blanquecina",
+              ",",
+              "con",
+              "una",
+              "biblia",
+              "entre",
+              "las",
+              "manos",
+              "y",
+              "la",
+              "mirada",
+              "concentrada",
+              "en",
+              "los",
+              "novios",
+              ",",
+              "probablemente",
+              "deseando",
+              "terminar",
+              "lo",
+              "antes",
+              "posible",
+              "."
+            ],
+            "idx_ambig_item": 13,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "conjunto de personas",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "plataforma",
+              "sindical",
+              "exige",
+              "negociar",
+              "con",
+              "la",
+              "patronal",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "lo que sirve como medio para conseguir un fin",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Su",
+              "puesto",
+              "en",
+              "el",
+              "peri\u00f3dico",
+              "ha",
+              "sido",
+              "la",
+              "plataforma",
+              "para",
+              "saltar",
+              "al",
+              "mundo",
+              "de",
+              "la",
+              "televisi\u00f3n",
+              "."
+            ],
+            "idx_ambig_item": 8,
+            "source": "Clave"
+          }
+        ]
+      },
+      "4": {
+        "description_ES": "\u00e1mbito digital",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Varias",
+              "televisiones",
+              "han",
+              "creado",
+              "una",
+              "plataforma",
+              "de",
+              "pago",
+              "por",
+              "visi\u00f3n",
+              "."
+            ],
+            "idx_ambig_item": 5,
+            "source": "Clave"
+          }
+        ]
+      },
+      "5": {
+        "description_ES": "suela de un calzado",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Tengo",
+              "unos",
+              "zapatos",
+              "con",
+              "una",
+              "plataforma",
+              "de",
+              "diez",
+              "cent\u00edmetros",
+              "."
+            ],
+            "idx_ambig_item": 5,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5919
+  },
+  "portabilidad|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "facilidad para ser transportado",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "dise\u00f1o",
+              "y",
+              "el",
+              "tama\u00f1o",
+              "de",
+              "esta",
+              "c\u00e1mara",
+              "fotogr\u00e1fica",
+              "permiten",
+              "que",
+              "tenga",
+              "una",
+              "buena",
+              "portabilidad",
+              "."
+            ],
+            "idx_ambig_item": 14,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "conservaci\u00f3n del n\u00famero de tel\u00e9fono al cambiar de compa\u00f1\u00eda telef\u00f3nica",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "portabilidad",
+              ",",
+              "el",
+              "cambio",
+              "de",
+              "un",
+              "operador",
+              "m\u00f3vil",
+              "a",
+              "otro",
+              ",",
+              "creci\u00f3",
+              "un",
+              "28",
+              "%",
+              "en",
+              "octubre",
+              "respecto",
+              "al",
+              "mismo",
+              "mes",
+              "de",
+              "2016",
+              ",",
+              "hasta",
+              "los",
+              "612.394",
+              "n\u00fameros",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5033
+  },
+  "previsi\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "conjetura de algo que va a suceder",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Y",
+              "he",
+              "aqu\u00ed",
+              "que",
+              "mi",
+              "previsi\u00f3n",
+              "se",
+              "cumpl\u00eda",
+              ":",
+              "un",
+              "hombre",
+              "quer\u00eda",
+              "casarse",
+              "conmigo",
+              "."
+            ],
+            "idx_ambig_item": 5,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "preparaci\u00f3n de lo necesario",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Un",
+              "destacamento",
+              "de",
+              "guardias",
+              "a",
+              "caballo",
+              "ocupaba",
+              "las",
+              "inmediaciones",
+              "en",
+              "previsi\u00f3n",
+              "de",
+              "tumultos",
+              "."
+            ],
+            "idx_ambig_item": 10,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.9183
+  },
+  "producci\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "obtenci\u00f3n o fabricaci\u00f3n de un objeto comercial",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "A",
+              "diferencia",
+              "del",
+              "aula",
+              "contigua",
+              ",",
+              "la",
+              "n\u00famero",
+              "29",
+              "\u2014",
+              "donde",
+              "se",
+              "conserva",
+              "a",
+              "oscuras",
+              "la",
+              "producci\u00f3n",
+              "de",
+              "hortalizas",
+              "\u2014",
+              ",",
+              "aqu\u00ed",
+              "entra",
+              "el",
+              "sol",
+              "a",
+              "raudales",
+              "."
+            ],
+            "idx_ambig_item": 16,
+            "source": "SCAP"
+          },
+          {
+            "l_toks": [
+              "Detendr\u00e9",
+              "la",
+              "producci\u00f3n",
+              "de",
+              "tanques",
+              "y",
+              "municiones",
+              "para",
+              "el",
+              "ej\u00e9rcito",
+              "."
+            ],
+            "idx_ambig_item": 2,
+            "source": "SCAP"
+          },
+          {
+            "l_toks": [
+              "Adem\u00e1s",
+              ",",
+              "la",
+              "av\u00edcola",
+              "ten\u00eda",
+              "dos",
+              "mil",
+              "gallinas",
+              "ponedoras",
+              ",",
+              "lo",
+              "que",
+              "significaba",
+              "una",
+              "producci\u00f3n",
+              "de",
+              "sesenta",
+              "mil",
+              "huevos",
+              "al",
+              "mes",
+              "."
+            ],
+            "idx_ambig_item": 14,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "creaci\u00f3n de una obra intelectual",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Su",
+              "producci\u00f3n",
+              "po\u00e9tica",
+              "ha",
+              "aumentado",
+              "en",
+              "los",
+              "\u00faltimos",
+              "a\u00f1os",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "financiaci\u00f3n de una obra art\u00edstica",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Se",
+              "dedica",
+              "a",
+              "la",
+              "producci\u00f3n",
+              "de",
+              "discos",
+              "y",
+              "v\u00eddeos",
+              "musicales",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5919
+  },
+  "productividad|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "capacidad de producir",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Cerraron",
+              "la",
+              "mina",
+              "porque",
+              "ten\u00eda",
+              "una",
+              "productividad",
+              "muy",
+              "baja",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "La",
+              "alta",
+              "productividad",
+              "del",
+              "nuevo",
+              "equipo",
+              "industrial",
+              "demuestra",
+              "que",
+              "fue",
+              "una",
+              "buena",
+              "inversi\u00f3n",
+              "."
+            ],
+            "idx_ambig_item": 2,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "La",
+              "inyecci\u00f3n",
+              "de",
+              "capital",
+              "mejor\u00f3",
+              "la",
+              "productividad",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "capacidad de ser \u00fatil y provechoso",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "productividad",
+              "de",
+              "la",
+              "reuni\u00f3n",
+              "se",
+              "plasm\u00f3",
+              "en",
+              "la",
+              "cantidad",
+              "de",
+              "decisiones",
+              "que",
+              "se",
+              "adoptaron",
+              "ese",
+              "d\u00eda",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5966
+  },
+  "provisi\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "conjunto de cosas y su suministro",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Iremos",
+              "al",
+              "supermercado",
+              "porque",
+              "nos",
+              "hemos",
+              "quedado",
+              "sin",
+              "provisiones",
+              "."
+            ],
+            "idx_ambig_item": 8,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Hasta",
+              "la",
+              "pr\u00f3xima",
+              "semana",
+              "no",
+              "llegar\u00e1",
+              "la",
+              "provisi\u00f3n",
+              "de",
+              "material",
+              "quir\u00fargico",
+              "."
+            ],
+            "idx_ambig_item": 7,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "En",
+              "el",
+              "puerto",
+              "los",
+              "barcos",
+              "hacen",
+              "provisi\u00f3n",
+              "de",
+              "combustible",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "tramitaci\u00f3n o resoluci\u00f3n de un asunto",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "provisi\u00f3n",
+              "de",
+              "este",
+              "problema",
+              "es",
+              "competencia",
+              "del",
+              "jefe",
+              "de",
+              "personal",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "3": {
+        "description_ES": "asignaci\u00f3n (especialmente de un empleo)",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "provisi\u00f3n",
+              "de",
+              "las",
+              "jefaturas",
+              "de",
+              "servicio",
+              "se",
+              "realizar\u00e1",
+              "por",
+              "libre",
+              "designaci\u00f3n",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5375
+  },
+  "pr\u00e9stamo|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "entrega provisional de un objeto a condici\u00f3n de que sea devuelto",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "horario",
+              "de",
+              "pr\u00e9stamos",
+              "de",
+              "libros",
+              "termina",
+              "a",
+              "las",
+              "ocho",
+              "."
+            ],
+            "idx_ambig_item": 3,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "cantidad de dinero prestada (p.ej. por un banco)",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Pidi\u00f3",
+              "un",
+              "pr\u00e9stamo",
+              "al",
+              "banco",
+              "para",
+              "comprar",
+              "una",
+              "casa",
+              "."
+            ],
+            "idx_ambig_item": 2,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.9911
+  },
+  "reducci\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "disminuci\u00f3n",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "m\u00e9dico",
+              "me",
+              "ha",
+              "aconsejado",
+              "una",
+              "reducci\u00f3n",
+              "de",
+              "az\u00facar",
+              "en",
+              "la",
+              "dieta",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "sometimiento a la obediencia",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "reducci\u00f3n",
+              "de",
+              "los",
+              "agitadores",
+              "por",
+              "parte",
+              "de",
+              "la",
+              "polic\u00eda",
+              "termin\u00f3",
+              "con",
+              "varios",
+              "heridos",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.7642
+  },
+  "sector|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "parte, secci\u00f3n o grupo diferenciados en un todo",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Vive",
+              "en",
+              "un",
+              "barrio",
+              "del",
+              "sector",
+              "norte",
+              "de",
+              "la",
+              "ciudad",
+              "."
+            ],
+            "idx_ambig_item": 5,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "\u00e1rea econ\u00f3mica",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "En",
+              "una",
+              "econom\u00eda",
+              "equilibrada",
+              ",",
+              "el",
+              "sector",
+              "p\u00fablico",
+              "y",
+              "el",
+              "sector",
+              "privado",
+              "deben",
+              "complementarse",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5033
+  },
+  "segmento|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "parte de un todo f\u00edsico",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Un",
+              "segmento",
+              "circular",
+              "es",
+              "la",
+              "parte",
+              "de",
+              "c\u00edrculo",
+              "limitada",
+              "por",
+              "un",
+              "arco",
+              "y",
+              "una",
+              "l\u00ednea",
+              "recta",
+              "que",
+              "une",
+              "dos",
+              "puntos",
+              "de",
+              "su",
+              "circunferencia",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "grupo, divisi\u00f3n (especialmente de un mercado)",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Este",
+              "nuevo",
+              "producto",
+              "est\u00e1",
+              "dirigido",
+              "a",
+              "un",
+              "segmento",
+              "de",
+              "mercado",
+              "definido",
+              "por",
+              "su",
+              "gran",
+              "capacidad",
+              "adquisitiva",
+              "."
+            ],
+            "idx_ambig_item": 7,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.9183
+  },
+  "seguro|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "contrato por el que se compromete a pagar determinada cantidad de dinero en caso de da\u00f1o o p\u00e9rdida",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Es",
+              "conveniente",
+              "que",
+              "un",
+              "coche",
+              "nuevo",
+              "tenga",
+              "un",
+              "seguro",
+              "a",
+              "todo",
+              "riesgo",
+              "."
+            ],
+            "idx_ambig_item": 8,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "dispositivo para impedir que algo se ponga en funcionamiento o para aumentar la firmeza de un cierre",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "seguro",
+              "de",
+              "las",
+              "armas",
+              "de",
+              "fuego",
+              "impide",
+              "que",
+              "se",
+              "disparen",
+              "accidentalmente",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.7642
+  },
+  "subasta|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "venta p\u00fablica en que se vende al mejor postor",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Basta",
+              "enviar",
+              "a",
+              "la",
+              "subasta",
+              "a",
+              "un",
+              "representante",
+              "de",
+              "la",
+              "Administraci\u00f3n",
+              "y",
+              "en",
+              "el",
+              "momento",
+              "del",
+              "remate",
+              "manifestar",
+              "su",
+              "prop\u00f3sito",
+              "de",
+              "adquirir",
+              "la",
+              "obra",
+              "por",
+              "el",
+              "precio",
+              "fijado",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "SCAP"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "adjudicaci\u00f3n de un contrato de obra o de la prestaci\u00f3n de un servicio",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "empresa",
+              "constructora",
+              "ha",
+              "conseguido",
+              "por",
+              "subasta",
+              "la",
+              "construcci\u00f3n",
+              "de",
+              "un",
+              "museo",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.9183
+  },
+  "subida|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "paso a un lugar m\u00e1s alto",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "subida",
+              "del",
+              "\u00faltimo",
+              "trecho",
+              "de",
+              "la",
+              "monta\u00f1a",
+              "fue",
+              "agotadora",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Esta",
+              "subida",
+              "es",
+              "demasiado",
+              "pronunciada",
+              "para",
+              "ir",
+              "en",
+              "bicicleta",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "aumento",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Una",
+              "subida",
+              "de",
+              "adrenalina",
+              "inund\u00f3",
+              "sus",
+              "poros",
+              ",",
+              "provocando",
+              "que",
+              "su",
+              "respiraci\u00f3n",
+              "se",
+              "entrecortase",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.3291
+  },
+  "valoraci\u00f3n|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "determinaci\u00f3n del valor o m\u00e9rito de algo",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Un",
+              "perito",
+              "tendr\u00e1",
+              "que",
+              "hacer",
+              "la",
+              "valoraci\u00f3n",
+              "de",
+              "los",
+              "da\u00f1os",
+              "del",
+              "incendio",
+              "."
+            ],
+            "idx_ambig_item": 6,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "Estoy",
+              "satisfecho",
+              "con",
+              "la",
+              "valoraci\u00f3n",
+              "que",
+              "se",
+              "ha",
+              "hecho",
+              "de",
+              "mi",
+              "trabajo",
+              "."
+            ],
+            "idx_ambig_item": 4,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "aumento de valor",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Llevar",
+              "el",
+              "agua",
+              "hasta",
+              "la",
+              "finca",
+              "ha",
+              "supuesto",
+              "una",
+              "gran",
+              "valoraci\u00f3n",
+              "del",
+              "terreno",
+              "."
+            ],
+            "idx_ambig_item": 10,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.6182
+  },
+  "vencimiento|NOUN|m": {
+    "senses": {
+      "1": {
+        "description_ES": "inclinaci\u00f3n de algo material",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "El",
+              "vencimiento",
+              "del",
+              "estante",
+              "se",
+              "produjo",
+              "porque",
+              "la",
+              "madera",
+              "no",
+              "pod\u00eda",
+              "soportar",
+              "tanto",
+              "peso",
+              "."
+            ],
+            "idx_ambig_item": 1,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "cumplimiento de un plazo",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "La",
+              "fecha",
+              "de",
+              "vencimiento",
+              "de",
+              "esa",
+              "letra",
+              "de",
+              "cambio",
+              "es",
+              "el",
+              "d\u00eda",
+              "20",
+              "de",
+              "octubre",
+              "."
+            ],
+            "idx_ambig_item": 3,
+            "source": "Clave"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.5033
+  },
+  "venta|NOUN|f": {
+    "senses": {
+      "1": {
+        "description_ES": "cesi\u00f3n de algo a cambio de una forma de pago",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "Las",
+              "tiendas",
+              "de",
+              "confecci\u00f3n",
+              "se",
+              "dedican",
+              "a",
+              "la",
+              "venta",
+              "de",
+              "prendas",
+              "de",
+              "ropa",
+              "."
+            ],
+            "idx_ambig_item": 8,
+            "source": "Clave"
+          },
+          {
+            "l_toks": [
+              "La",
+              "campa\u00f1a",
+              "contra",
+              "el",
+              "tabaco",
+              "ha",
+              "hecho",
+              "disminuir",
+              "las",
+              "ventas",
+              "de",
+              "este",
+              "producto",
+              "."
+            ],
+            "idx_ambig_item": 9,
+            "source": "Clave"
+          }
+        ]
+      },
+      "2": {
+        "description_ES": "establecimiento en que se sirve comida y bebida",
+        "l_example_sents": [
+          {
+            "l_toks": [
+              "En",
+              "otro",
+              "cuarto",
+              "de",
+              "la",
+              "venta",
+              "duermen",
+              "los",
+              "dos",
+              "cocheros",
+              ";",
+              "y",
+              "el",
+              "cuarto",
+              "grande",
+              ",",
+              "donde",
+              "hay",
+              "seis",
+              "jergones",
+              ",",
+              "lo",
+              "ocupan",
+              "los",
+              "arrieros",
+              "."
+            ],
+            "idx_ambig_item": 5,
+            "source": "SCAP"
+          }
+        ]
+      }
+    },
+    "normalised_entropy": 0.0
+  }
+}

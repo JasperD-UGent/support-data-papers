@@ -1,0 +1,1910 @@
+{
+  "absorci\u00f3n|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 322,
+    "dataset_cleaned_size": 231,
+    "test_set_orig_size": 21,
+    "test_set_annots_size": 21,
+    "rest_set_size": 210,
+    "label_distribution_test_set": {
+      "1": 4,
+      "2": 17
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 2,
+      "2": 6
+    },
+    "label_distribution_semi_supervised": {
+      "1": 13,
+      "2": 155
+    }
+  },
+  "adquisici\u00f3n|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 3241,
+    "dataset_cleaned_size": 2164,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 100,
+    "rest_set_size": 2064,
+    "label_distribution_test_set": {
+      "1": 98,
+      "2": 2
+    },
+    "label_distribution_supervised_base": {
+      "1": 3,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 8,
+      "2": 2
+    },
+    "label_distribution_semi_supervised": {
+      "1": 1955,
+      "2": 2
+    }
+  },
+  "alianza|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 2774,
+    "dataset_cleaned_size": 1769,
+    "test_set_orig_size": 101,
+    "test_set_annots_size": 100,
+    "rest_set_size": 1668,
+    "label_distribution_test_set": {
+      "1": 90,
+      "2": 10
+    },
+    "label_distribution_supervised_base": {
+      "1": 2,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 7,
+      "2": 2
+    },
+    "label_distribution_semi_supervised": {
+      "1": 1414,
+      "2": 103
+    }
+  },
+  "alza|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 1254,
+    "dataset_cleaned_size": 898,
+    "test_set_orig_size": 88,
+    "test_set_annots_size": 88,
+    "rest_set_size": 810,
+    "label_distribution_test_set": {
+      "1": 88,
+      "2": 0
+    },
+    "label_distribution_supervised_base": {
+      "1": 2,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 7,
+      "2": 2
+    },
+    "label_distribution_semi_supervised": {
+      "1": 795,
+      "2": 8
+    }
+  },
+  "amortizaci\u00f3n|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 531,
+    "dataset_cleaned_size": 409,
+    "test_set_orig_size": 41,
+    "test_set_annots_size": 41,
+    "rest_set_size": 368,
+    "label_distribution_test_set": {
+      "1": 41,
+      "2": 0
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 7,
+      "2": 1
+    },
+    "label_distribution_semi_supervised": {
+      "1": 337,
+      "2": 1
+    }
+  },
+  "ampliaci\u00f3n|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 3936,
+    "dataset_cleaned_size": 2912,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 100,
+    "rest_set_size": 2812,
+    "label_distribution_test_set": {
+      "1": 97,
+      "2": 3
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 6,
+      "2": 2
+    },
+    "label_distribution_semi_supervised": {
+      "1": 2467,
+      "2": 36
+    }
+  },
+  "apalancamiento|NOUN|m": {
+    "n_senses": 2,
+    "dataset_all_size": 285,
+    "dataset_cleaned_size": 219,
+    "test_set_orig_size": 22,
+    "test_set_annots_size": 22,
+    "rest_set_size": 197,
+    "label_distribution_test_set": {
+      "1": 0,
+      "2": 22
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 2,
+      "2": 4
+    },
+    "label_distribution_semi_supervised": {
+      "1": 2,
+      "2": 194
+    }
+  },
+  "apuesta|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 2790,
+    "dataset_cleaned_size": 1892,
+    "test_set_orig_size": 101,
+    "test_set_annots_size": 95,
+    "rest_set_size": 1791,
+    "label_distribution_test_set": {
+      "1": 17,
+      "2": 78
+    },
+    "label_distribution_supervised_base": {
+      "1": 2,
+      "2": 2
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 3,
+      "2": 7
+    },
+    "label_distribution_semi_supervised": {
+      "1": 69,
+      "2": 1306
+    }
+  },
+  "arbitraje|NOUN|m": {
+    "n_senses": 2,
+    "dataset_all_size": 737,
+    "dataset_cleaned_size": 547,
+    "test_set_orig_size": 54,
+    "test_set_annots_size": 54,
+    "rest_set_size": 493,
+    "label_distribution_test_set": {
+      "1": 1,
+      "2": 53
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 1,
+      "2": 7
+    },
+    "label_distribution_semi_supervised": {
+      "1": 2,
+      "2": 454
+    }
+  },
+  "balance|NOUN|m": {
+    "n_senses": 2,
+    "dataset_all_size": 1899,
+    "dataset_cleaned_size": 1390,
+    "test_set_orig_size": 101,
+    "test_set_annots_size": 101,
+    "rest_set_size": 1289,
+    "label_distribution_test_set": {
+      "1": 52,
+      "2": 49
+    },
+    "label_distribution_supervised_base": {
+      "1": 2,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 6,
+      "2": 3
+    },
+    "label_distribution_semi_supervised": {
+      "1": 712,
+      "2": 16
+    }
+  },
+  "bono|NOUN|m": {
+    "n_senses": 2,
+    "dataset_all_size": 1887,
+    "dataset_cleaned_size": 1443,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 97,
+    "rest_set_size": 1343,
+    "label_distribution_test_set": {
+      "1": 14,
+      "2": 83
+    },
+    "label_distribution_supervised_base": {
+      "1": 2,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 4,
+      "2": 5
+    },
+    "label_distribution_semi_supervised": {
+      "1": 130,
+      "2": 1036
+    }
+  },
+  "capitalizaci\u00f3n|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 742,
+    "dataset_cleaned_size": 594,
+    "test_set_orig_size": 59,
+    "test_set_annots_size": 59,
+    "rest_set_size": 535,
+    "label_distribution_test_set": {
+      "1": 0,
+      "2": 59
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 1,
+      "2": 7
+    },
+    "label_distribution_semi_supervised": {
+      "1": 1,
+      "2": 477
+    }
+  },
+  "captaci\u00f3n|NOUN|f": {
+    "n_senses": 3,
+    "dataset_all_size": 476,
+    "dataset_cleaned_size": 323,
+    "test_set_orig_size": 31,
+    "test_set_annots_size": 29,
+    "rest_set_size": 292,
+    "label_distribution_test_set": {
+      "1": 0,
+      "2": 8,
+      "3": 21
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 2,
+      "3": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 1,
+      "2": 5,
+      "3": 6
+    },
+    "label_distribution_semi_supervised": {
+      "1": 3,
+      "2": 33,
+      "3": 158
+    }
+  },
+  "cartera|NOUN|f": {
+    "n_senses": 5,
+    "dataset_all_size": 5145,
+    "dataset_cleaned_size": 3704,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 99,
+    "rest_set_size": 3604,
+    "label_distribution_test_set": {
+      "1": 31,
+      "2": 13,
+      "3": 34,
+      "4": 10,
+      "5": 11
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 3,
+      "2": 3,
+      "3": 6,
+      "4": 3,
+      "5": 4
+    },
+    "label_distribution_semi_supervised": {
+      "1": 268,
+      "2": 94,
+      "3": 804,
+      "4": 112,
+      "5": 241
+    }
+  },
+  "cierre|NOUN|m": {
+    "n_senses": 4,
+    "dataset_all_size": 7151,
+    "dataset_cleaned_size": 5084,
+    "test_set_orig_size": 102,
+    "test_set_annots_size": 98,
+    "rest_set_size": 4982,
+    "label_distribution_test_set": {
+      "1": 22,
+      "2": 2,
+      "3": 16,
+      "4": 58
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 2
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 6,
+      "2": 1,
+      "3": 2,
+      "4": 8
+    },
+    "label_distribution_semi_supervised": {
+      "1": 179,
+      "2": 1,
+      "3": 28,
+      "4": 638
+    }
+  },
+  "compa\u00f1\u00eda|NOUN|f": {
+    "n_senses": 3,
+    "dataset_all_size": 34353,
+    "dataset_cleaned_size": 23660,
+    "test_set_orig_size": 106,
+    "test_set_annots_size": 105,
+    "rest_set_size": 23554,
+    "label_distribution_test_set": {
+      "1": 28,
+      "2": 2,
+      "3": 75
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1,
+      "3": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 5,
+      "2": 2,
+      "3": 5
+    },
+    "label_distribution_semi_supervised": {
+      "1": 2825,
+      "2": 235,
+      "3": 18880
+    }
+  },
+  "cotizaci\u00f3n|NOUN|f": {
+    "n_senses": 3,
+    "dataset_all_size": 1295,
+    "dataset_cleaned_size": 969,
+    "test_set_orig_size": 97,
+    "test_set_annots_size": 97,
+    "rest_set_size": 872,
+    "label_distribution_test_set": {
+      "1": 12,
+      "2": 83,
+      "3": 2
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1,
+      "3": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 4,
+      "2": 5,
+      "3": 2
+    },
+    "label_distribution_semi_supervised": {
+      "1": 104,
+      "2": 678,
+      "3": 4
+    }
+  },
+  "cuota|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 3433,
+    "dataset_cleaned_size": 2464,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 100,
+    "rest_set_size": 2364,
+    "label_distribution_test_set": {
+      "1": 38,
+      "2": 62
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 4,
+      "2": 4
+    },
+    "label_distribution_semi_supervised": {
+      "1": 556,
+      "2": 1479
+    }
+  },
+  "descuento|NOUN|m": {
+    "n_senses": 3,
+    "dataset_all_size": 1405,
+    "dataset_cleaned_size": 1010,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 100,
+    "rest_set_size": 910,
+    "label_distribution_test_set": {
+      "1": 98,
+      "2": 1,
+      "3": 1
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1,
+      "3": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 6,
+      "2": 4,
+      "3": 2
+    },
+    "label_distribution_semi_supervised": {
+      "1": 784,
+      "2": 4,
+      "3": 18
+    }
+  },
+  "desplome|NOUN|m": {
+    "n_senses": 2,
+    "dataset_all_size": 360,
+    "dataset_cleaned_size": 261,
+    "test_set_orig_size": 26,
+    "test_set_annots_size": 26,
+    "rest_set_size": 235,
+    "label_distribution_test_set": {
+      "1": 6,
+      "2": 20
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 5,
+      "2": 3
+    },
+    "label_distribution_semi_supervised": {
+      "1": 32,
+      "2": 135
+    }
+  },
+  "deuda|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 8936,
+    "dataset_cleaned_size": 6429,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 100,
+    "rest_set_size": 6329,
+    "label_distribution_test_set": {
+      "1": 88,
+      "2": 12
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 6,
+      "2": 2
+    },
+    "label_distribution_semi_supervised": {
+      "1": 5169,
+      "2": 46
+    }
+  },
+  "distribuci\u00f3n|NOUN|f": {
+    "n_senses": 3,
+    "dataset_all_size": 2900,
+    "dataset_cleaned_size": 1935,
+    "test_set_orig_size": 101,
+    "test_set_annots_size": 100,
+    "rest_set_size": 1834,
+    "label_distribution_test_set": {
+      "1": 30,
+      "2": 53,
+      "3": 17
+    },
+    "label_distribution_supervised_base": {
+      "1": 2,
+      "2": 1,
+      "3": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 5,
+      "2": 4,
+      "3": 4
+    },
+    "label_distribution_semi_supervised": {
+      "1": 207,
+      "2": 1067,
+      "3": 18
+    }
+  },
+  "divisa|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 631,
+    "dataset_cleaned_size": 447,
+    "test_set_orig_size": 42,
+    "test_set_annots_size": 42,
+    "rest_set_size": 405,
+    "label_distribution_test_set": {
+      "1": 38,
+      "2": 4
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 4,
+      "2": 3
+    },
+    "label_distribution_semi_supervised": {
+      "1": 371,
+      "2": 20
+    }
+  },
+  "divisi\u00f3n|NOUN|f": {
+    "n_senses": 3,
+    "dataset_all_size": 3454,
+    "dataset_cleaned_size": 2470,
+    "test_set_orig_size": 101,
+    "test_set_annots_size": 101,
+    "rest_set_size": 2369,
+    "label_distribution_test_set": {
+      "1": 88,
+      "2": 12,
+      "3": 1
+    },
+    "label_distribution_supervised_base": {
+      "1": 2,
+      "2": 1,
+      "3": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 5,
+      "2": 2,
+      "3": 4
+    },
+    "label_distribution_semi_supervised": {
+      "1": 374,
+      "2": 152,
+      "3": 179
+    }
+  },
+  "ejercicio|NOUN|m": {
+    "n_senses": 4,
+    "dataset_all_size": 9988,
+    "dataset_cleaned_size": 7244,
+    "test_set_orig_size": 107,
+    "test_set_annots_size": 106,
+    "rest_set_size": 7137,
+    "label_distribution_test_set": {
+      "1": 26,
+      "2": 20,
+      "3": 23,
+      "4": 37
+    },
+    "label_distribution_supervised_base": {
+      "1": 2,
+      "2": 1,
+      "3": 3,
+      "4": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 4,
+      "2": 5,
+      "3": 7,
+      "4": 3
+    },
+    "label_distribution_semi_supervised": {
+      "1": 804,
+      "2": 193,
+      "3": 495,
+      "4": 4413
+    }
+  },
+  "emisi\u00f3n|NOUN|f": {
+    "n_senses": 4,
+    "dataset_all_size": 3711,
+    "dataset_cleaned_size": 2557,
+    "test_set_orig_size": 101,
+    "test_set_annots_size": 98,
+    "rest_set_size": 2456,
+    "label_distribution_test_set": {
+      "1": 53,
+      "2": 20,
+      "3": 1,
+      "4": 24
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 3,
+      "2": 7,
+      "3": 1,
+      "4": 5
+    },
+    "label_distribution_semi_supervised": {
+      "1": 1106,
+      "2": 908,
+      "3": 1,
+      "4": 167
+    }
+  },
+  "encarecimiento|NOUN|m": {
+    "n_senses": 3,
+    "dataset_all_size": 166,
+    "dataset_cleaned_size": 115,
+    "test_set_orig_size": 10,
+    "test_set_annots_size": 9,
+    "rest_set_size": 105,
+    "label_distribution_test_set": {
+      "1": 9,
+      "2": 0,
+      "3": 0
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1,
+      "3": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 6,
+      "2": 2,
+      "3": 4
+    },
+    "label_distribution_semi_supervised": {
+      "1": 91,
+      "2": 2,
+      "3": 5
+    }
+  },
+  "entidad|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 17338,
+    "dataset_cleaned_size": 11799,
+    "test_set_orig_size": 102,
+    "test_set_annots_size": 101,
+    "rest_set_size": 11697,
+    "label_distribution_test_set": {
+      "1": 7,
+      "2": 94
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 3,
+      "2": 5
+    },
+    "label_distribution_semi_supervised": {
+      "1": 148,
+      "2": 11352
+    }
+  },
+  "estimaci\u00f3n|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 1449,
+    "dataset_cleaned_size": 1109,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 100,
+    "rest_set_size": 1009,
+    "label_distribution_test_set": {
+      "1": 0,
+      "2": 100
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 2,
+      "2": 6
+    },
+    "label_distribution_semi_supervised": {
+      "1": 8,
+      "2": 980
+    }
+  },
+  "evoluci\u00f3n|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 3191,
+    "dataset_cleaned_size": 2273,
+    "test_set_orig_size": 103,
+    "test_set_annots_size": 103,
+    "rest_set_size": 2170,
+    "label_distribution_test_set": {
+      "1": 102,
+      "2": 1
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 6,
+      "2": 2
+    },
+    "label_distribution_semi_supervised": {
+      "1": 1951,
+      "2": 54
+    }
+  },
+  "expansi\u00f3n|NOUN|f": {
+    "n_senses": 3,
+    "dataset_all_size": 1869,
+    "dataset_cleaned_size": 1258,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 99,
+    "rest_set_size": 1158,
+    "label_distribution_test_set": {
+      "1": 98,
+      "2": 1,
+      "3": 0
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1,
+      "3": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 9,
+      "2": 2,
+      "3": 1
+    },
+    "label_distribution_semi_supervised": {
+      "1": 837,
+      "2": 3,
+      "3": 1
+    }
+  },
+  "explotaci\u00f3n|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 2884,
+    "dataset_cleaned_size": 2133,
+    "test_set_orig_size": 101,
+    "test_set_annots_size": 101,
+    "rest_set_size": 2032,
+    "label_distribution_test_set": {
+      "1": 81,
+      "2": 20
+    },
+    "label_distribution_supervised_base": {
+      "1": 2,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 6,
+      "2": 3
+    },
+    "label_distribution_semi_supervised": {
+      "1": 1679,
+      "2": 224
+    }
+  },
+  "fabricaci\u00f3n|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 1424,
+    "dataset_cleaned_size": 995,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 100,
+    "rest_set_size": 895,
+    "label_distribution_test_set": {
+      "1": 99,
+      "2": 1
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 5,
+      "2": 3
+    },
+    "label_distribution_semi_supervised": {
+      "1": 375,
+      "2": 40
+    }
+  },
+  "facturaci\u00f3n|NOUN|f": {
+    "n_senses": 3,
+    "dataset_all_size": 2603,
+    "dataset_cleaned_size": 1844,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 100,
+    "rest_set_size": 1744,
+    "label_distribution_test_set": {
+      "1": 1,
+      "2": 32,
+      "3": 67
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1,
+      "3": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 2,
+      "2": 4,
+      "3": 6
+    },
+    "label_distribution_semi_supervised": {
+      "1": 31,
+      "2": 25,
+      "3": 1213
+    }
+  },
+  "fibra|NOUN|f": {
+    "n_senses": 3,
+    "dataset_all_size": 1575,
+    "dataset_cleaned_size": 1159,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 100,
+    "rest_set_size": 1059,
+    "label_distribution_test_set": {
+      "1": 13,
+      "2": 28,
+      "3": 59
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1,
+      "3": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 3,
+      "2": 5,
+      "3": 4
+    },
+    "label_distribution_semi_supervised": {
+      "1": 13,
+      "2": 212,
+      "3": 592
+    }
+  },
+  "flota|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 1245,
+    "dataset_cleaned_size": 861,
+    "test_set_orig_size": 86,
+    "test_set_annots_size": 84,
+    "rest_set_size": 775,
+    "label_distribution_test_set": {
+      "1": 33,
+      "2": 51
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 4,
+      "2": 4
+    },
+    "label_distribution_semi_supervised": {
+      "1": 285,
+      "2": 274
+    }
+  },
+  "franquicia|NOUN|f": {
+    "n_senses": 3,
+    "dataset_all_size": 470,
+    "dataset_cleaned_size": 321,
+    "test_set_orig_size": 30,
+    "test_set_annots_size": 29,
+    "rest_set_size": 291,
+    "label_distribution_test_set": {
+      "1": 2,
+      "2": 9,
+      "3": 18
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1,
+      "3": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 4,
+      "2": 4,
+      "3": 4
+    },
+    "label_distribution_semi_supervised": {
+      "1": 8,
+      "2": 55,
+      "3": 26
+    }
+  },
+  "fusi\u00f3n|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 2905,
+    "dataset_cleaned_size": 2036,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 100,
+    "rest_set_size": 1936,
+    "label_distribution_test_set": {
+      "1": 99,
+      "2": 1
+    },
+    "label_distribution_supervised_base": {
+      "1": 2,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 5,
+      "2": 4
+    },
+    "label_distribution_semi_supervised": {
+      "1": 1770,
+      "2": 19
+    }
+  },
+  "gigante|NOUN|m": {
+    "n_senses": 2,
+    "dataset_all_size": 4153,
+    "dataset_cleaned_size": 2888,
+    "test_set_orig_size": 105,
+    "test_set_annots_size": 67,
+    "rest_set_size": 2783,
+    "label_distribution_test_set": {
+      "1": 37,
+      "2": 30
+    },
+    "label_distribution_supervised_base": {
+      "1": 2,
+      "2": 2
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 5,
+      "2": 4
+    },
+    "label_distribution_semi_supervised": {
+      "1": 1001,
+      "2": 1342
+    }
+  },
+  "homologaci\u00f3n|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 241,
+    "dataset_cleaned_size": 152,
+    "test_set_orig_size": 14,
+    "test_set_annots_size": 14,
+    "rest_set_size": 138,
+    "label_distribution_test_set": {
+      "1": 5,
+      "2": 9
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 2
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 4,
+      "2": 5
+    },
+    "label_distribution_semi_supervised": {
+      "1": 16,
+      "2": 30
+    }
+  },
+  "impacto|NOUN|m": {
+    "n_senses": 2,
+    "dataset_all_size": 6771,
+    "dataset_cleaned_size": 4699,
+    "test_set_orig_size": 102,
+    "test_set_annots_size": 102,
+    "rest_set_size": 4597,
+    "label_distribution_test_set": {
+      "1": 20,
+      "2": 82
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 3
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 4,
+      "2": 6
+    },
+    "label_distribution_semi_supervised": {
+      "1": 133,
+      "2": 3734
+    }
+  },
+  "incentivo|NOUN|m": {
+    "n_senses": 2,
+    "dataset_all_size": 1039,
+    "dataset_cleaned_size": 694,
+    "test_set_orig_size": 69,
+    "test_set_annots_size": 69,
+    "rest_set_size": 625,
+    "label_distribution_test_set": {
+      "1": 68,
+      "2": 1
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 6,
+      "2": 2
+    },
+    "label_distribution_semi_supervised": {
+      "1": 580,
+      "2": 5
+    }
+  },
+  "integraci\u00f3n|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 2664,
+    "dataset_cleaned_size": 1744,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 100,
+    "rest_set_size": 1644,
+    "label_distribution_test_set": {
+      "1": 0,
+      "2": 100
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 2,
+      "2": 6
+    },
+    "label_distribution_semi_supervised": {
+      "1": 6,
+      "2": 778
+    }
+  },
+  "inversi\u00f3n|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 13565,
+    "dataset_cleaned_size": 9234,
+    "test_set_orig_size": 102,
+    "test_set_annots_size": 102,
+    "rest_set_size": 9132,
+    "label_distribution_test_set": {
+      "1": 3,
+      "2": 99
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 2
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 2,
+      "2": 7
+    },
+    "label_distribution_semi_supervised": {
+      "1": 32,
+      "2": 9044
+    }
+  },
+  "junta|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 3115,
+    "dataset_cleaned_size": 2082,
+    "test_set_orig_size": 101,
+    "test_set_annots_size": 101,
+    "rest_set_size": 1981,
+    "label_distribution_test_set": {
+      "1": 101,
+      "2": 0
+    },
+    "label_distribution_supervised_base": {
+      "1": 3,
+      "2": 2
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 6,
+      "2": 4
+    },
+    "label_distribution_semi_supervised": {
+      "1": 1942,
+      "2": 21
+    }
+  },
+  "lanzamiento|NOUN|m": {
+    "n_senses": 2,
+    "dataset_all_size": 1587,
+    "dataset_cleaned_size": 1098,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 99,
+    "rest_set_size": 998,
+    "label_distribution_test_set": {
+      "1": 26,
+      "2": 73
+    },
+    "label_distribution_supervised_base": {
+      "1": 2,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 5,
+      "2": 4
+    },
+    "label_distribution_semi_supervised": {
+      "1": 133,
+      "2": 634
+    }
+  },
+  "libra|NOUN|f": {
+    "n_senses": 3,
+    "dataset_all_size": 1847,
+    "dataset_cleaned_size": 1309,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 99,
+    "rest_set_size": 1209,
+    "label_distribution_test_set": {
+      "1": 0,
+      "2": 96,
+      "3": 3
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1,
+      "3": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 1,
+      "2": 8,
+      "3": 2
+    },
+    "label_distribution_semi_supervised": {
+      "1": 1,
+      "2": 1086,
+      "3": 35
+    }
+  },
+  "liquidez|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 1295,
+    "dataset_cleaned_size": 873,
+    "test_set_orig_size": 87,
+    "test_set_annots_size": 87,
+    "rest_set_size": 786,
+    "label_distribution_test_set": {
+      "1": 87,
+      "2": 0
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 6,
+      "2": 2
+    },
+    "label_distribution_semi_supervised": {
+      "1": 777,
+      "2": 2
+    }
+  },
+  "marca|NOUN|f": {
+    "n_senses": 5,
+    "dataset_all_size": 9473,
+    "dataset_cleaned_size": 6411,
+    "test_set_orig_size": 108,
+    "test_set_annots_size": 103,
+    "rest_set_size": 6303,
+    "label_distribution_test_set": {
+      "1": 3,
+      "2": 73,
+      "3": 17,
+      "4": 6,
+      "5": 4
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 4,
+      "2": 5,
+      "3": 5,
+      "4": 3,
+      "5": 3
+    },
+    "label_distribution_semi_supervised": {
+      "1": 31,
+      "2": 3435,
+      "3": 114,
+      "4": 30,
+      "5": 43
+    }
+  },
+  "matriz|NOUN|f": {
+    "n_senses": 3,
+    "dataset_all_size": 1328,
+    "dataset_cleaned_size": 934,
+    "test_set_orig_size": 92,
+    "test_set_annots_size": 91,
+    "rest_set_size": 842,
+    "label_distribution_test_set": {
+      "1": 6,
+      "2": 1,
+      "3": 84
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1,
+      "3": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 4,
+      "2": 2,
+      "3": 6
+    },
+    "label_distribution_semi_supervised": {
+      "1": 15,
+      "2": 7,
+      "3": 681
+    }
+  },
+  "mercado|NOUN|m": {
+    "n_senses": 2,
+    "dataset_all_size": 25150,
+    "dataset_cleaned_size": 17431,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 100,
+    "rest_set_size": 17331,
+    "label_distribution_test_set": {
+      "1": 34,
+      "2": 66
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 2
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 4,
+      "2": 5
+    },
+    "label_distribution_semi_supervised": {
+      "1": 2623,
+      "2": 10476
+    }
+  },
+  "morosidad|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 486,
+    "dataset_cleaned_size": 360,
+    "test_set_orig_size": 35,
+    "test_set_annots_size": 35,
+    "rest_set_size": 325,
+    "label_distribution_test_set": {
+      "1": 34,
+      "2": 1
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 4,
+      "2": 4
+    },
+    "label_distribution_semi_supervised": {
+      "1": 258,
+      "2": 13
+    }
+  },
+  "negocio|NOUN|m": {
+    "n_senses": 4,
+    "dataset_all_size": 21323,
+    "dataset_cleaned_size": 14588,
+    "test_set_orig_size": 103,
+    "test_set_annots_size": 101,
+    "rest_set_size": 14485,
+    "label_distribution_test_set": {
+      "1": 46,
+      "2": 52,
+      "3": 1,
+      "4": 2
+    },
+    "label_distribution_supervised_base": {
+      "1": 2,
+      "2": 1,
+      "3": 1,
+      "4": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 7,
+      "2": 5,
+      "3": 2,
+      "4": 3
+    },
+    "label_distribution_semi_supervised": {
+      "1": 1113,
+      "2": 2152,
+      "3": 30,
+      "4": 720
+    }
+  },
+  "oferta|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 10308,
+    "dataset_cleaned_size": 7174,
+    "test_set_orig_size": 101,
+    "test_set_annots_size": 101,
+    "rest_set_size": 7073,
+    "label_distribution_test_set": {
+      "1": 93,
+      "2": 8
+    },
+    "label_distribution_supervised_base": {
+      "1": 3,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 8,
+      "2": 2
+    },
+    "label_distribution_semi_supervised": {
+      "1": 5975,
+      "2": 48
+    }
+  },
+  "operador|NOUN|m": {
+    "n_senses": 2,
+    "dataset_all_size": 5080,
+    "dataset_cleaned_size": 3597,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 100,
+    "rest_set_size": 3497,
+    "label_distribution_test_set": {
+      "1": 92,
+      "2": 8
+    },
+    "label_distribution_supervised_base": {
+      "1": 2,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 8,
+      "2": 1
+    },
+    "label_distribution_semi_supervised": {
+      "1": 3027,
+      "2": 27
+    }
+  },
+  "parqu\u00e9|NOUN|m": {
+    "n_senses": 2,
+    "dataset_all_size": 352,
+    "dataset_cleaned_size": 280,
+    "test_set_orig_size": 28,
+    "test_set_annots_size": 28,
+    "rest_set_size": 252,
+    "label_distribution_test_set": {
+      "1": 10,
+      "2": 18
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 3,
+      "2": 5
+    },
+    "label_distribution_semi_supervised": {
+      "1": 103,
+      "2": 144
+    }
+  },
+  "peaje|NOUN|m": {
+    "n_senses": 2,
+    "dataset_all_size": 932,
+    "dataset_cleaned_size": 706,
+    "test_set_orig_size": 70,
+    "test_set_annots_size": 69,
+    "rest_set_size": 636,
+    "label_distribution_test_set": {
+      "1": 67,
+      "2": 2
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 6,
+      "2": 2
+    },
+    "label_distribution_semi_supervised": {
+      "1": 434,
+      "2": 55
+    }
+  },
+  "plantilla|NOUN|f": {
+    "n_senses": 3,
+    "dataset_all_size": 3465,
+    "dataset_cleaned_size": 2304,
+    "test_set_orig_size": 101,
+    "test_set_annots_size": 101,
+    "rest_set_size": 2203,
+    "label_distribution_test_set": {
+      "1": 1,
+      "2": 4,
+      "3": 96
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1,
+      "3": 2
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 2,
+      "2": 3,
+      "3": 8
+    },
+    "label_distribution_semi_supervised": {
+      "1": 14,
+      "2": 16,
+      "3": 2110
+    }
+  },
+  "plataforma|NOUN|f": {
+    "n_senses": 5,
+    "dataset_all_size": 6190,
+    "dataset_cleaned_size": 4110,
+    "test_set_orig_size": 106,
+    "test_set_annots_size": 104,
+    "rest_set_size": 4004,
+    "label_distribution_test_set": {
+      "1": 46,
+      "2": 21,
+      "3": 8,
+      "4": 29,
+      "5": 0
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 4,
+      "2": 6,
+      "3": 2,
+      "4": 4,
+      "5": 3
+    },
+    "label_distribution_semi_supervised": {
+      "1": 1010,
+      "2": 435,
+      "3": 6,
+      "4": 1345,
+      "5": 39
+    }
+  },
+  "portabilidad|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 130,
+    "dataset_cleaned_size": 92,
+    "test_set_orig_size": 9,
+    "test_set_annots_size": 9,
+    "rest_set_size": 83,
+    "label_distribution_test_set": {
+      "1": 0,
+      "2": 9
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 3,
+      "2": 5
+    },
+    "label_distribution_semi_supervised": {
+      "1": 5,
+      "2": 76
+    }
+  },
+  "previsi\u00f3n|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 3033,
+    "dataset_cleaned_size": 2166,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 100,
+    "rest_set_size": 2066,
+    "label_distribution_test_set": {
+      "1": 86,
+      "2": 14
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 4,
+      "2": 4
+    },
+    "label_distribution_semi_supervised": {
+      "1": 1875,
+      "2": 96
+    }
+  },
+  "producci\u00f3n|NOUN|f": {
+    "n_senses": 3,
+    "dataset_all_size": 5104,
+    "dataset_cleaned_size": 3557,
+    "test_set_orig_size": 103,
+    "test_set_annots_size": 103,
+    "rest_set_size": 3454,
+    "label_distribution_test_set": {
+      "1": 83,
+      "2": 6,
+      "3": 14
+    },
+    "label_distribution_supervised_base": {
+      "1": 3,
+      "2": 1,
+      "3": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 5,
+      "2": 8,
+      "3": 1
+    },
+    "label_distribution_semi_supervised": {
+      "1": 2105,
+      "2": 304,
+      "3": 4
+    }
+  },
+  "productividad|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 617,
+    "dataset_cleaned_size": 409,
+    "test_set_orig_size": 40,
+    "test_set_annots_size": 40,
+    "rest_set_size": 369,
+    "label_distribution_test_set": {
+      "1": 36,
+      "2": 4
+    },
+    "label_distribution_supervised_base": {
+      "1": 3,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 5,
+      "2": 2
+    },
+    "label_distribution_semi_supervised": {
+      "1": 365,
+      "2": 3
+    }
+  },
+  "provisi\u00f3n|NOUN|f": {
+    "n_senses": 3,
+    "dataset_all_size": 1747,
+    "dataset_cleaned_size": 1323,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 99,
+    "rest_set_size": 1223,
+    "label_distribution_test_set": {
+      "1": 97,
+      "2": 1,
+      "3": 1
+    },
+    "label_distribution_supervised_base": {
+      "1": 3,
+      "2": 1,
+      "3": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 7,
+      "2": 3,
+      "3": 3
+    },
+    "label_distribution_semi_supervised": {
+      "1": 995,
+      "2": 36,
+      "3": 4
+    }
+  },
+  "pr\u00e9stamo|NOUN|m": {
+    "n_senses": 2,
+    "dataset_all_size": 2904,
+    "dataset_cleaned_size": 2142,
+    "test_set_orig_size": 101,
+    "test_set_annots_size": 101,
+    "rest_set_size": 2041,
+    "label_distribution_test_set": {
+      "1": 6,
+      "2": 95
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 4,
+      "2": 4
+    },
+    "label_distribution_semi_supervised": {
+      "1": 45,
+      "2": 1901
+    }
+  },
+  "reducci\u00f3n|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 3903,
+    "dataset_cleaned_size": 2732,
+    "test_set_orig_size": 102,
+    "test_set_annots_size": 102,
+    "rest_set_size": 2630,
+    "label_distribution_test_set": {
+      "1": 101,
+      "2": 1
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 5,
+      "2": 3
+    },
+    "label_distribution_semi_supervised": {
+      "1": 1874,
+      "2": 35
+    }
+  },
+  "sector|NOUN|m": {
+    "n_senses": 2,
+    "dataset_all_size": 20047,
+    "dataset_cleaned_size": 13241,
+    "test_set_orig_size": 107,
+    "test_set_annots_size": 107,
+    "rest_set_size": 13134,
+    "label_distribution_test_set": {
+      "1": 44,
+      "2": 63
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 5,
+      "2": 3
+    },
+    "label_distribution_semi_supervised": {
+      "1": 2918,
+      "2": 4610
+    }
+  },
+  "segmento|NOUN|m": {
+    "n_senses": 2,
+    "dataset_all_size": 2025,
+    "dataset_cleaned_size": 1379,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 100,
+    "rest_set_size": 1279,
+    "label_distribution_test_set": {
+      "1": 6,
+      "2": 94
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 2,
+      "2": 6
+    },
+    "label_distribution_semi_supervised": {
+      "1": 81,
+      "2": 1118
+    }
+  },
+  "seguro|NOUN|m": {
+    "n_senses": 2,
+    "dataset_all_size": 2962,
+    "dataset_cleaned_size": 2054,
+    "test_set_orig_size": 101,
+    "test_set_annots_size": 85,
+    "rest_set_size": 1953,
+    "label_distribution_test_set": {
+      "1": 83,
+      "2": 2
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 4,
+      "2": 2
+    },
+    "label_distribution_semi_supervised": {
+      "1": 1401,
+      "2": 74
+    }
+  },
+  "subasta|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 2083,
+    "dataset_cleaned_size": 1457,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 100,
+    "rest_set_size": 1357,
+    "label_distribution_test_set": {
+      "1": 66,
+      "2": 34
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 2,
+      "2": 6
+    },
+    "label_distribution_semi_supervised": {
+      "1": 108,
+      "2": 608
+    }
+  },
+  "subida|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 2834,
+    "dataset_cleaned_size": 2017,
+    "test_set_orig_size": 101,
+    "test_set_annots_size": 94,
+    "rest_set_size": 1916,
+    "label_distribution_test_set": {
+      "1": 33,
+      "2": 61
+    },
+    "label_distribution_supervised_base": {
+      "1": 2,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 3,
+      "2": 6
+    },
+    "label_distribution_semi_supervised": {
+      "1": 259,
+      "2": 1546
+    }
+  },
+  "valoraci\u00f3n|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 2647,
+    "dataset_cleaned_size": 1895,
+    "test_set_orig_size": 100,
+    "test_set_annots_size": 100,
+    "rest_set_size": 1795,
+    "label_distribution_test_set": {
+      "1": 100,
+      "2": 0
+    },
+    "label_distribution_supervised_base": {
+      "1": 2,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 8,
+      "2": 1
+    },
+    "label_distribution_semi_supervised": {
+      "1": 1228,
+      "2": 8
+    }
+  },
+  "vencimiento|NOUN|m": {
+    "n_senses": 2,
+    "dataset_all_size": 754,
+    "dataset_cleaned_size": 578,
+    "test_set_orig_size": 58,
+    "test_set_annots_size": 58,
+    "rest_set_size": 520,
+    "label_distribution_test_set": {
+      "1": 0,
+      "2": 58
+    },
+    "label_distribution_supervised_base": {
+      "1": 1,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 2,
+      "2": 6
+    },
+    "label_distribution_semi_supervised": {
+      "1": 6,
+      "2": 471
+    }
+  },
+  "venta|NOUN|f": {
+    "n_senses": 2,
+    "dataset_all_size": 16695,
+    "dataset_cleaned_size": 11731,
+    "test_set_orig_size": 106,
+    "test_set_annots_size": 106,
+    "rest_set_size": 11625,
+    "label_distribution_test_set": {
+      "1": 105,
+      "2": 1
+    },
+    "label_distribution_supervised_base": {
+      "1": 2,
+      "2": 1
+    },
+    "label_distribution_supervised_enriched": {
+      "1": 7,
+      "2": 2
+    },
+    "label_distribution_semi_supervised": {
+      "1": 11078,
+      "2": 102
+    }
+  }
+}
