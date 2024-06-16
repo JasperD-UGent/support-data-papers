@@ -4,10 +4,10 @@
 # PyCharm folders
 /.idea
 
-# Pending and rejected
+# pending and rejected
 /Degraeuwe_et_al_2023_IJCL
 /Degraeuwe_et_al_2024_RLyLA
 
-# Deprecated
-/README_2024_06_05.md
+# deprecated folders and files
 /Degraeuwe_2024/Chapter4/Section4_2/testSet_2024_06_13.txt
+/README_2024_06_05.md
