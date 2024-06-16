@@ -1,5 +1,5 @@
 # support-data-papers
- This repository contains the support data used in the academic works I (co-)authored.
+This repository contains the support data used in the academic works I (co-)authored.
 
 ## Degraeuwe_2024
 This directory contains the data used in the Degraeuwe (2024) doctoral dissertation.
