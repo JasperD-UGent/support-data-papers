@@ -18,5 +18,10 @@ This directory contains the data used in the Degraeuwe (2024) doctoral dissertat
 #### Section5_2
 - ``BiLSTM-classifier``: this folder contains the models obtained from the tenfold cross-validation (``CV_fold1.keras`` to ``CV_fold10.keras``) as well as the Python dictionary used for the character embedding model (``d_chars_to_idxs.json``).
 
+## Degraeuwe_et_al_2025
+
+This directory contains the data used in Degraeuwe et al. (2025), published in the [Revista de Lingüística y Lenguas Aplicadas](https://polipapers.upv.es/index.php/rdlyla/index).
+
 ## References
 - Degraeuwe, J. (2024). *IVESS: Intelligent Vocabulary and Example Selection for Spanish vocabulary learning* [PhD thesis]. Universiteit Gent.
+- Degraeuwe, J., Goethals, P., & Tezcan, A. (2025). Adding word sense awareness to Computer-Assisted Language Learning methods: A tailor-made word sense disambiguation method for Spanish as a foreign language. *Revista de Lingüística y Lenguas Aplicadas*.
