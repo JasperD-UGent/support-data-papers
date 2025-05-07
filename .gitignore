@@ -1,5 +1,18 @@
+# virtual environment
+/venv*
+
 # Python cache folders
 **/__pycache__
 
 # PyCharm folders
 /.idea
+
+# output and temp folders
+/Degraeuwe_2025/output*
+/Degraeuwe_2025/temp*
+
+# HPC files
+*.pbs
+HPC*.txt
+HPC*.e*
+HPC*.o*
