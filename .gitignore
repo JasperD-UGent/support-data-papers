@@ -8,7 +8,7 @@
 /.idea
 
 # output and temp folders
-/Degraeuwe_2025/output*
+/Degraeuwe_2025/output
 /Degraeuwe_2025/temp*
 
 # HPC files
